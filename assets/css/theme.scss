@@ -239,7 +239,7 @@ img, img:hover {
 .blog-grid-item {  
     color: #333;
     padding: 0;
-    display: flex;
+    // display: flex; //solves issue of too short boxes
     align-items:center;
     .author-thumb {
         width:40px;
