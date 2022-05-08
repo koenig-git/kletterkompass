@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Boulderplanet Köln"
-author: Robin
+author: robin
 categories: [ Bouldern, Outdoor ]
 tags: [ Köln ]
 image: assets/images/planet.jpg

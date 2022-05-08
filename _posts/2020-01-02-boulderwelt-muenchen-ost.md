@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Boulderwelt München Ost"
-author: John
+author: john
 categories: [ Bouldern, Outdoor ]
 tags: [ München ]
 image: assets/images/munchenost.jpg

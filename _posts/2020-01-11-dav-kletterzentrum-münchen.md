@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DAV Kletter- und Boulderzentrum Nord"
-author: John
+author: john
 categories: [ Bouldern, Outdoor ]
 tags: [ München ]
 image: assets/images/davnord.jpg

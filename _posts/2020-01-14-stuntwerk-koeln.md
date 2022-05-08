@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stuntwerk Köln"
-author: Robin
+author: robin
 categories: [ Bouldern, Freeletics, Ninja Warrior ]
 tags: [ Köln ]
 image: assets/images/stuntwerk.jpg
