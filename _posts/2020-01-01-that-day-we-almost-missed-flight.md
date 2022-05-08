@@ -4,7 +4,7 @@ title:  "Dogpatch Boulders San Francisco"
 author: john
 categories: [ Travel, Bouldern ]
 tags: [ San Francisco ]
-image: assets/images/16.jpg
+image: assets/images/san.jpg
 rating: 5
 ---
 

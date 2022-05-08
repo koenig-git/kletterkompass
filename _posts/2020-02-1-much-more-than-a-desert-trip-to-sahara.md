@@ -4,7 +4,7 @@ title:  "Bergstation Hilden"
 author: Robin
 categories: [ Bouldern, Klettern, Speedclimbing, Outdoor ]
 tags: [ Hilden ]
-image: assets/images/16.jpg
+image: assets/images/hilden.jpg
 rating: 5
 ---
 
