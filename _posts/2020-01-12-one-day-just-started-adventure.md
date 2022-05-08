@@ -1,19 +1,20 @@
 ---
 layout: post
-title:  "One day we just started our adventure"
-author: sal
-categories: [ Travel ]
-image: assets/images/15.jpg
+title:  "Stuntwerk Köln"
+author: Robin
+categories: [ Bouldern, Freeletics, Ninja Warrior ]
+tags: [ Köln ]
+image: assets/images/16.jpg
+rating: 4.5
 ---
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+#### <span style="color:#00c5a1">Nicht nur etwas für Ninja-Warrior Fans!</span>
+Unglaublich viel Wandfläche. Als wäre das noch nicht genug, bekommt ihr einen Parkourkurse, Ninjawarriortraining und oben drauf.
+> Absolutes Highlight ist natürlich der Freelatics und Ninja Warrior Trainingsbereich
 
+Immer gut besucht und das zurecht.
+Einziger Kritikpunkt wäre, dass weder die Wettkampfwände aufgrund ihres Schwierigkeitsgrades, noch die Wand im mittleren Abschnitt aufgrund ihrer starken Neigung für Anfänger nutzbar sind. Auch der Ninja-Warrior und Freelatix Bereich ist beeindruckend anzusehen, aber für Anfänger eigentlich keine wirkliche Option. Nichtdesttrotz gibt es immer noch einige Optionen für Anfänger, gerade die reinen Fußrouten sind ein super Training um mehr Sicherheit beim bouldern zu bekommen.  
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+>Fazit: Für erfahre Boulderer und Ninja Warrior Fans ein absolutes muss! Hier gibt es unglaublich viel auszuprobieren und zu bestaunen.
 
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. 
-
-Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
-
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+Das Stuntwerk liegt in der Schanzenstraße 6 in Köln Mülheim und lässt sich super mit der Bahn über den Bahnhof Mülheim erreichen. Auch mit dem Auto hat man genug Parkplatzmöglichkeiten um eine angenehme Anreise zu gewähren. Der Eintritt beträgt 13€ für Erwachsene und 10,50€ für Ermäßigte.

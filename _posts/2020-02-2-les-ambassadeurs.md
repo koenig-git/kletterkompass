@@ -1,21 +1,26 @@
 ---
 layout: post
-title:  "Les Ambassadeurs, the first Restaurant we Visited in Paris"
-author: sal
-categories: [ Lifestyle ]
-tags: [ France ]
+title:  "Boulderplanet Köln"
+author: Robin
+categories: [ Bouldern, Outdoor ]
+tags: [ Köln ]
 image: assets/images/2.jpg
-rating: 4.5
+rating: 5
+
 ---
 
-Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century. 
 
-Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.
+#### <span style="color:#00c5a1">Eine Halle, mit dem Herz am rechten Fleck.</span>
+Hier zu bouldern fühlt sich für mich an wie nach Hause zurückzukehren. Nicht nur, dass ich hier das Bouldern gelernt habe, sondern auch weil die Community super offen und freundlich ist. Bei fast jedem Besuch lerne ich neue Leute kennen, quatsche über Boulderprobleme und verbringe meine gesamte Session mit ihnen. Gerade an warmen Tagen ist der Outdoorbereich ein wahres Paradies! Nicht nur die Möglichkeit Draußen zu bouldern ist klasse, sondern auch das Ambiente, die Musik und Stimmung passt immer. 
+>Ab und zu ist auch ein kleiner Pool mit Regenwasser befühlt, falls man sich abkühlen will. 
 
-> It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.
+Die Wände, mit vielen unterschiedlichen Neigungen, sowie die Routen selbst sind super vielfältig und lassen an Menge und Qualität keine Wünsche übrig. Der Bereich für das Krafttraining ist riesig und bietet neben Geräten, freien Gewichten und einem Stangenkonstrukt, auch noch Matten für Yoga oder Gymnastik, Trainingswände und eine Tischtennisplatte. Aufgrund von Flutschäden im Jahre 2021 wurde vieles in der Halle frisch renoviert. Alle Matten, einige Wände und viele Elemente der Umkleiden wurden komplett erneuert.
+Auch wenn ich nicht für den Kinderbereich sprechen kann, so sollte angemerkt sein, dass auch dieser ganz Neu ist und mit 300 m^2 mehr als genug Platz zum Austoben bietet.
 
-Following a renovation of the hotel in 1981–85, the restaurant occupied a former private ballroom with windows looking out on the Place de la Concorde, a few hundred meters from the Palais Garnier. 
+Diese Halle spielt alleine schon aufgrund ihres Charmes ganz oben mit im deutschen Vergleich. Das einzige kleine Manko, verglichen mit anderen Top-Hallen, wäre, dass nicht allzu viele wirklich große oder einzigartige Griffe oder Volumen vorhanden sind. Bei höheren Schwierigkeitsgraden werden die Griffe oft einfach kleiner. Prinzipiell gerade für Leute, die für den echten Fels üben wollen, nichts Verkehrtes.        
 
-Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet  followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache.
+> Fazit: Unbedingt einen Besuch wert! Gerade an heißen Tagen oder um Leute kennenzulernen die beste Anlaufstelle.
 
-In 2017 Hache opened a smaller restaurant, L'Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.
+
+ 
+Der Boulderplanet liegt in der Oskar-Jäger-Straße 143H in Köln Ehrenfeld und lässt sich passabel mit Bus oder der Straßenbahn erreichen. Erstaunlich für Köln ist hier, dass das Auto ausnahmsweise mal eine gute Wahl ist. Vor Ort findet ihr immer einen kostenlosen Parkplatz! Der Eintritt beträgt 13,50€ für Erwachsene, Ermässigte (Studenten) zahlen nur 11,50€.

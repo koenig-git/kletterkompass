@@ -1,29 +1,23 @@
 ---
 layout: post
-title:  "Reviewing the best Oscar movies of all time"
-author: john
-categories: [ Lifestyle ]
-tags: [Movies]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
-rating: 4.5
+title:  "Boulderwelt München Ost"
+author: John
+categories: [ Bouldern, Outdoor ]
+tags: [ München ]
+image: assets/images/munchenost.jpg
+rating: 4
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with **Memoirs**! JSON-LD ready for review property.
+#### <span style="color:#00c5a1">Viel Glanz und ein kleiner Schandfleck</span>
+Eine der wahrscheinlich besten Aussichten beim Bouldern hat man im Outdoorbereich der Boulderwelt München Ost. Diese neue und super stylische Halle lässt keine Wünsche offen. Wirklich alles ist sauber und hochwertig. 
 
-#### How to use?
+> In der Outdoorarea den Sonnenuntergang genießen oder bei strahlender Hitze draußen bouldern: Hier seit ihr an der richtigen Adresse.
 
-It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
+Das einzige Manko an der schönen Aussicht, sind die vielen Treppen, die man mit Boulderschuhen immer wieder zwischen den Etagen besteigen muss. Dies ist aber wirklich ein kleiner Preis für dieses einmalige Bouldererlebnis auf Höhe der Dächer Münchens. Aber nicht nur die Halle, auch die Boulderrouten wissen hier zu glänzen. Die Routesetter, sowie die Varianz an Wänden und Neigungen ist einfach tadelos!
+Leider führt dies dazu, dass die Halle sehr gut besucht ist und ihr teilweise 3 Leute vor euch auf einer Route habt. Wir empfehlen Stoßzeiten (vor allem Abends) zu vermeiden. Allgemein empfand ich die Community verglichen zu anderen Hallen leider etwas distanziert. Ich hab in meinen drei Jahren in denen ich mehrmals die Woche dort war nur wenige Leute wirklich kennengelernt.
 
-```md
----
-layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Lifestyle ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
-rating: 4.5
----
-```
+Zuletzt muss ich noch eine Warnung aussprechen! Solltet ihr öfters hierhin gehen wollen werden ihr sicher etwas von der Dauerkarte gehört haben. Diese wird immer mit dem monatlichen Preis zusammen genannt ist die Alternative zur Jahreskarte. Diese Karte hat aber auch eine Mindestdauer von 12 Monaten und ist erst danach monatlich kündbar. Diese Info findet ihr natürlich nur im Kleingedruckten. Ich persönlich finde das ein absolute Frechheit und wollte euch diese Information auf jeden Fall zur Hand geben.   
+
+> Fazit: Abgesehen von der Preispolitik und der etwas verschlossenen Community ist dies eine 5 von 5 Halle! Die Boulder und die Aussicht sind ohne Gleichen.
+
+Die Boulderwelt München Ost liegt in der Hanne-Hiob-Straße 4 und ist gut mit den Öffis, so wie mit dem Auto zu erreichen. Der Eintritt zur "Prime Time" liegt bei Erwachsenen bei 13,90€ und für Ermässigte 12,90€.
