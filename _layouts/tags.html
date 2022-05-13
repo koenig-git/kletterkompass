@@ -3,13 +3,15 @@ title: "Tags"
 layout: default
 permalink: "/tags.html"
 ---
-{% for tag in site.tags %}
+<div class="tag-container">
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
 {% capture tag_name %}{{ tag | first }}{% endcapture %}
-  <a href="{{site.baseurl}}/tags#{{tag_name}}"><span class="text-capitalize badge badge-primary text-small" STYLE="font-size:1.5em">{{tag_name}}</span></a>
+  <a href="{{site.baseurl}}/tags#{{tag_name | replace: " ", "-"}}"><span class="text-capitalize badge badge-primary text-small" STYLE="font-size:1.5em">{{tag_name}}</span></a>
 {% endfor %}
+</div>
 
-
-{% for tag in site.tags %}
+{% for tag in sorted_tags %}
 <h4 class="mt-5 mb-neg-30" id="{{ tag[0] | replace: " ","-" }}"><span class="text-capitalize text-small badge badge-primary">{{ tag[0] }}</span></h4>
 <div class="blog-grid-container">
 {% assign pages_list = tag[1] %}
