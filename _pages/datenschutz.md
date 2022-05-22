@@ -51,7 +51,7 @@ Christopher König \
 Rheindorferstraße 133 \
 40764 Langenfeld \
 E-Mail-Adresse: \
-info@kletterkompass.com \
+info@kletterkompass.com
 
 Impressum: \
 http://kletterkompass.com/impressum
