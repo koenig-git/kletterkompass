@@ -4,7 +4,7 @@ title: "Kletterkompass"
 description: "Du suchst noch nach der perfekten Halle? Wir haben sie für dich getestet!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'http://www.kletterkompass.com/'
+url: 'https://www.kletterkompass.com'
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
