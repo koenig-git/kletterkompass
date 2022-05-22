@@ -63,49 +63,30 @@ http://kletterkompass.com/impressum
 Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.
 Arten der verarbeiteten Daten:
 
--Bestandsdaten.
-
--Kontaktdaten.
-
--Inhaltsdaten.
-
--Vertragsdaten.
-
--Nutzungsdaten.
-
--Meta-/Kommunikationsdaten.
-
--Kategorien betroffener Personen
-
--Kunden.
-
--Kommunikationspartner.
-
--Nutzer.
+- Bestandsdaten.
+- Kontaktdaten.
+- Inhaltsdaten.
+- Vertragsdaten.
+- Nutzungsdaten.
+- Meta-/Kommunikationsdaten.
+- Kategorien betroffener Personen
+- Kunden.
+- Kommunikationspartner.
+- Nutzer.
 
 ## Zwecke der Verarbeitung:
 
--Erbringung vertraglicher Leistungen und Kundenservice.
-
--Kontaktanfragen und Kommunikation.
-
--Sicherheitsmaßnahmen.
-
--Direktmarketing.
-
--Reichweitenmessung.
-
--Verwaltung und Beantwortung von Anfragen.
-
--Feedback.
-
--Marketing.
-
--Profile mit nutzerbezogenen Informationen.
-
--Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
-
--Informationstechnische Infrastruktur.
+- Erbringung vertraglicher Leistungen und Kundenservice.
+- Kontaktanfragen und Kommunikation.
+- Sicherheitsmaßnahmen.
+- Direktmarketing.
+- Reichweitenmessung.
+- Verwaltung und Beantwortung von Anfragen.
+- Feedback.
+- Marketing.
+- Profile mit nutzerbezogenen Informationen.
+- Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
+- Informationstechnische Infrastruktur.
 
 
 ## Maßgebliche Rechtsgrundlagen
