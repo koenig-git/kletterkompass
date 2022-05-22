@@ -23,3 +23,5 @@ Der Zustand der gesamten Halle, der Umkleiden und allen Duschen und Toiletten is
 >Fazit: Diese Halle bietet wahrscheinlich das beste Gesamtpaket für alle Klettersportarten in ganz Deutschland. Uneingeschränkt empfehlbar! 
 
 Die Bergstation liegt in der Bahnhofsallee 35 in Hilden und lässt sich super mit der Bahn, dem Bus oder mit dem Auto erreichen. Einen freien Parkplatz findet man in der Regel, nur an ganz vollen Tagen könnte es etwas eng werden. Die Tageskarte für das Bouldern liegt bei 12€ für Erwachsene und 10€ für Ermäßigte. Fürs Klettern zahlt ihr 16€ als Erwachsener, 14€ für Ermäßigte.
+
+Weitere Infos findet ihr unter <a href="https://bergstation.nrw/" target="_blank">www.bergstation.nrw</a>

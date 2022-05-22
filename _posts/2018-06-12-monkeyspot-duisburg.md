@@ -16,3 +16,5 @@ The Queen's Guard and Queen's Life Guard are mounted at the royal residences tha
 > Fazit:
 
 Der Monkeyspot liegt in der Neuenhofstraße 91 in Duisburg. Genügend Parkplätze vor Ort. 12€ Erwachsene 10,50€ Ermäßigt
+
+Weitere Infos findet ihr unter

@@ -20,3 +20,5 @@ Einziger Kritikpunkt wäre, dass weder die Wettkampfwände aufgrund ihres Schwie
 >Fazit: Für erfahre Boulderer und Ninja Warrior Fans ein absolutes muss! Auch für alle andere gibt es unglaublich viel auszuprobieren und zu bestaunen. Immer einen Besuch wert.
 
 Das Stuntwerk liegt in der Schanzenstraße 6 in Köln Mülheim und lässt sich super mit der Bahn über den Bahnhof Mülheim erreichen. Auch mit dem Auto hat man genug Parkplatzmöglichkeiten, um eine angenehme Anreise zu gewähren. Der Eintritt beträgt 13€ für Erwachsene und 10,50€ für Ermäßigte.
+
+Weitere Infos findet ihr unter <a href="https://stuntwerk-koeln.de/" target="_blank">www.stuntwerk-koeln.de</a>
