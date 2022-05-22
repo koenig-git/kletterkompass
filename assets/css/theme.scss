@@ -17,6 +17,14 @@ $enable-rounded: false;
 
 
 // general
+.logotext{
+    background-image: linear-gradient(180deg, transparent 89%, #40FFDC 0);
+    background-repeat: no-repeat;
+    background-size: 0 100%;
+    transition: background-size .6s ease;
+    position: relative;
+}
+
 body, input, button, select, optgroup, textarea {   
     font-family:Sen;
 }
@@ -372,7 +380,7 @@ img, img:hover {
         line-height:1.3;
     }
     margin-top:120px;   
-    img.newsletter-logo {
+    img.newsletter- {
         max-height:70px;
     } 
     input {
