@@ -47,18 +47,13 @@ Stand: 22. Mai 2022
 
 ## Verantwortlicher
 
-Christopher König
+Christopher König \
+Rheindorferstraße 133 \
+40764 Langenfeld \
+E-Mail-Adresse: \
+info@kletterkompass.com \
 
-Rheindorferstraße 133
-
-40764 Langenfeld	
-
-E-Mail-Adresse: 
-
-info@kletterkompass.com
-
-Impressum: 
-
+Impressum: \
 http://kletterkompass.com/impressum
 
 
