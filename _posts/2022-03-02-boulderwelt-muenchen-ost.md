@@ -21,3 +21,5 @@ Zuletzt muss ich noch eine Warnung aussprechen! Solltet ihr öfters hierhin gehe
 > Fazit: Abgesehen von der Preispolitik und der etwas verschlossenen Community ist dies eine 5 von 5 Halle! Die Boulder und die Aussicht sind ohne Gleichen.
 
 Die Boulderwelt München Ost liegt in der Hanne-Hiob-Straße 4 und ist gut mit den Öffis, so wie mit dem Auto zu erreichen. Der Eintritt zur "Prime Time" liegt bei Erwachsenen bei 13,90€ und für Ermäßigte bei 12,90€.
+
+Weitere Infos findet ihr unter <a href="https://www.boulderwelt-muenchen-ost.de/" target="_blank">www.boulderwelt-muenchen-ost.de</a>

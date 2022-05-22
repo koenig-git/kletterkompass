@@ -23,4 +23,6 @@ Diese Halle spielt alleine schon aufgrund ihres Charmes ganz oben mit im deutsch
 
 
  
-Der Boulderplanet liegt in der Oskar-Jäger-Straße 143H in Köln Ehrenfeld und lässt sich passabel mit Bus oder der Straßenbahn erreichen. Erstaunlich für Köln ist hier, dass das Auto ausnahmsweise mal eine gute Wahl ist. Vor Ort findet ihr immer einen kostenlosen Parkplatz! Der Eintritt beträgt 13,50€ für Erwachsene, Ermäßigte (Studenten) zahlen nur 11,50€.
+Der Boulderplanet liegt in der Oskar-Jäger-Straße 143H in Köln Ehrenfeld und lässt sich passabel mit Bus oder der Straßenbahn erreichen. Erstaunlich für Köln ist hier, dass das Auto ausnahmsweise mal eine gute Wahl ist. Vor Ort findet ihr immer einen kostenlosen Parkplatz! Der Eintritt beträgt 13,50€ für Erwachsene, Ermäßigte (Studenten) zahlen nur 11,50€. Der Eintritt ist im Urban Sports Club Abo erhalten.
+
+Weitere Infos findet ihr unter <a href="https://boulderplanet.de/" target="_blank">www.boulderplanet.de</a>

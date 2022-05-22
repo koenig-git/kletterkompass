@@ -16,3 +16,5 @@ Das Personal ist unglaublich freundlich, egal wie stressig bzw. voll es war. Der
 > Fazit: Bei gutem Wetter alleine für den Außenbereich einen Besuch wert, zum Sommerfest sowieso. Der Boulderbereich hat mich nicht überzeugt, obwohl man anmerken muss, dass ihr auch weniger zahlt als woanders.
 
 Die Boulderhalle Bahnhof Blo liegt in der Wiesenstraße 118 in Wuppertal. Wie bereits erwähnt ist die Anbindung mit dem Fahrrad optimal, aber auch mit dem Auto seid ihr gut bedient und habt genug Parkmöglichkeiten. Tageskarten kostet 9,50€ für Erwachsene und 8,50€ für Ermäßigte.
+
+Weitere Infos findet ihr unter <a href="https://bouldercafe-wuppertal.de/" target="_blank">www.bouldercafe-wuppertal.de</a>

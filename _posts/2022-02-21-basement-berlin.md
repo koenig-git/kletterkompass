@@ -2,17 +2,24 @@
 layout: post
 title:  "Basement Berlin"
 author: sophie
-categories: [ Bouldern, Topout ]
+categories: [ Bouldern ]
 tags: [ Berlin ]
 image: assets/images/basement.jpg
 rating: 4
 ---
 
-#### <span style="color:#00c5a1">Top-Outs für alle!</span>
-The Queen's Guard and Queen's Life Guard (called King's Guard and King's Life Guard when the reigning monarch is male) are the names given to contingents of infantry and cavalry soldiers charged with guarding the official royal residences in the United Kingdom. The British Army has regiments of both Horse Guards and Foot Guards predating the English Restoration (1660), and since the reign of King Charles II these regiments have been responsible for guarding the Sovereign's palaces. The Guards are fully operational soldiers.
+#### <span style="color:#00c5a1">Ein Kellergewölbe war selten so stylisch</span>
 
-The Queen's Guard and Queen's Life Guard are mounted at the royal residences that come under the operating area of the British Army's London District, which is responsible for the administration of the Household Division. This covers Buckingham Palace, St James's Palace and the Tower of London, as well as Windsor Castle. The Queen's Guard is also mounted at the sovereign's other official residence, the Palace of Holyroodhouse, but not as often as in London. In Edinburgh, the guard is the responsibility of the resident infantry battalion at Redford Barracks. It is not mounted at the Queen's private residences at Sandringham or Balmoral.
+In einem angesagten Viertel mitten in Berlin würden die wenigstens eine Boulderhalle vermuten. Doch direkt gegenüber vom Anhalter Bahnhof, Nähe Potsdamer Platz liegt das Basement Berlin. Der Name kommt nicht von irgendwo her, denn diese Boulderhalle ist komplett unterirdisch. Man könnte annehmen, dass das Fehlen von natürlichem Licht ein großes Manko wäre, aber betritt man einmal die Halle vermisst man dies keine Sekunde während seiner Session. 
 
-> Fazit:
+>Die Decke ist schwarz gestrichen und in Kombination mit dem sichbaren Beton und silbernen Lüftungsschächten, versprüht diese Halle einen einzigartigen Charm und Style wie ich es noch nie gesehen habe. Diese Halle fühlt sich einfach anders an. 
 
-Der Monkeyspot liegt in der Neuenhofstraße 91 in Duisburg. Genügend Parkplätze vor Ort. 12€ Erwachsene 10,50€ Ermäßigt
+Sie wirkt authentisch, cool und modern aber dabei nicht zu poliert oder geleckt. Irgendwie sehr Berlin typisch halt. Auf 1.800 m² bekommt ihr reichlich verschiedene Boulderprobleme, von denen ich sehr angetan war. Es gab viel Abwechslung und gerade die vielen kleinen dynamischen Abschnitte bei den mittleren Schwierigkeiten haben es mir angetan. Die große Überraschung erfolgt aber erst nach dem Bouldern. Der Trainingsbereich spielt, vor allem im Verhältnis zu Hallengröße, ganz vorne mit dabei. Ihr habt hier ein Campus Board, ein Moonboard, ein Tensionboard, Finger Boards und eine "Frankenwand", wo ihr eure eigene Route frei gestalten könnt. Dazu gibt es Klimmzugstangen in verschiedenen Höhen oder wenn ihr lieber Cardio trainieren wollt Ergobikes. Hanteln und Stangen für ein klassisches Training gibt es natürlich auch. Wer hier nicht völlig erschöpft das Gym verlässt hat keine Ausrede! Auch sehr positiv begeistert war ich von der Community vor Ort. Sowohl das Personal, als auch die Leute waren super locker und freundlich. Ich hab mich hier durchgehend sehr wohl gefühlt.
+Wie bereits erwähnt ist die Lage, sowie die Verkehrsanbindung phenomenal, vor allem vor dem Hintergrund, dass wir hier von Berlin reden!
+Gerade zu Stoßzeiten wird es aber dafür leider doch sehr stickig und warm in der Halle. Das lässt sich wahrscheinlich auch kaum vermeiden. Die Halle ist auch sehr gut besucht, was auch dazu beiträgt und hat leider nicht die Fläche, wie andere freistehende Hallen, wodurch es voller und sperriger werden kann. 
+
+> Fazit: Unbedingt ausprobieren, alleine für das Erlebnis lohnt es sich! Wenn es geht aber lieber Vormittags.
+
+Das Basement Berlin liegt in der Stresemannstraße 72. Aufgrund der zentralen Lage empfehlen wir eine Anreise mit der Bahn. 12,90€ für Erwachsene 9,90€ Ermäßigte. Unser Tipp: Wenn ihr früh vor Ort seid zahlt ihr beim Early Bird Tarif auch ohne Ermäßigung nur 9,90€! Das freie Training ist im Urban Sports Club Abo erhalten.
+
+Weitere Infos findet ihr unter <a href="https://basement-boulderstudio.de/" target="_blank">www.basement-boulderstudio.de</a>

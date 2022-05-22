@@ -21,3 +21,5 @@ Solltet ihr in der Gegend sein, so sei euch gesagt, dass dies die beste Halle in
 >Fazit: Diese Halle gehört ganz klar zu den besten der Welt und ich kann jedem uneingeschränkt empfehlen diese auszuprobieren!
 
 Die Dogpatch Boulderhalle liegt in der 2573 3rd Street. Der Preis für eine Tageskarte beträgt rund 30$. Wenn ihr vor 15 Uhr da seid, sind es 25$.
+
+Weitere Infos findet ihr unter
