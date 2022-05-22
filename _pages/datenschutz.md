@@ -22,47 +22,27 @@ Stand: 22. Mai 2022
 
 ## Inhaltsübersicht
 
-Einleitung
-
-Verantwortlicher
-
-Übersicht der Verarbeitungen
-
-Maßgebliche Rechtsgrundlagen
-
-Sicherheitsmaßnahmen
-
-Übermittlung von personenbezogenen Daten
-
-Datenverarbeitung in Drittländern
-
-Löschung von Daten
-
-Einsatz von Cookies
-
-Bereitstellung des Onlineangebotes und Webhosting
-
-Blogs und Publikationsmedien
-
-Kontakt- und Anfragenverwaltung
-
-Newsletter und elektronische Benachrichtigungen
-
-Webanalyse, Monitoring und Optimierung
-
-Onlinemarketing
-
-Kundenrezensionen und Bewertungsverfahren
-
-Präsenzen in sozialen Netzwerken (Social Media)
-
-Plugins und eingebettete Funktionen sowie Inhalte
-
-Änderung und Aktualisierung der Datenschutzerklärung
-
-Rechte der betroffenen Personen
-
-Begriffsdefinitionen
+- Einleitung
+- Verantwortlicher
+- Übersicht der Verarbeitungen
+- Maßgebliche Rechtsgrundlagen
+- Sicherheitsmaßnahmen
+- Übermittlung von personenbezogenen Daten
+- Datenverarbeitung in Drittländern
+- Löschung von Daten
+- Einsatz von Cookies
+- Bereitstellung des Onlineangebotes und Webhosting
+- Blogs und Publikationsmedien
+- Kontakt- und Anfragenverwaltung
+- Newsletter und elektronische Benachrichtigungen
+- Webanalyse, Monitoring und Optimierung
+- Onlinemarketing
+- Kundenrezensionen und Bewertungsverfahren
+- Präsenzen in sozialen Netzwerken (Social Media)
+- Plugins und eingebettete Funktionen sowie Inhalte
+- Änderung und Aktualisierung der Datenschutzerklärung
+- Rechte der betroffenen Personen
+- Begriffsdefinitionen
 
 
 ## Verantwortlicher
