@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dogpatch Boulders San Francisco"
-author: john
+author: chris
 categories: [ Travel, Bouldern ]
 tags: [ San Francisco ]
 image: assets/images/san.jpg

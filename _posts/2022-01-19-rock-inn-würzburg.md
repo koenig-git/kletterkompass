@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ROCK INN Würzburg"
-author: John
+author: chris
 categories: [ Bouldern, Topout ]
 tags: [ Würzburg ]
 image: assets/images/würzburg.jpg
