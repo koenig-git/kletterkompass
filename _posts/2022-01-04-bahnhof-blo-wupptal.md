@@ -4,7 +4,7 @@ title:  "Bahnhof Blo Wuppertal"
 author: sophie
 categories: [ Bouldern, Outdoor ]
 tags: [ Wuppertal ]
-image: assets/images/wuppertal.jpg
+image: assets/images/bahnhof-blo-boulderhalle-wuppertal.jpg
 rating: 3.5
 ---
 

@@ -4,7 +4,7 @@ title:  "Basement Berlin"
 author: sophie
 categories: [ Bouldern ]
 tags: [ Berlin ]
-image: assets/images/basement.jpg
+image: assets/images/basement-boulderhalle-berlin.jpg
 rating: 4
 ---
 

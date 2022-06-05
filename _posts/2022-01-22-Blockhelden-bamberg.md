@@ -4,7 +4,7 @@ title:  "Blockhelden Bamberg"
 author: chris
 categories: [ Bouldern, Deep Net Soloing ]
 tags: [ Bamberg ]
-image: assets/images/bamberg.jpg
+image: assets/images/blockhelden-boulderhalle-bamberg.jpg
 rating: 4.5
 ---
 

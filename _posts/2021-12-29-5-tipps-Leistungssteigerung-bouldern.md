@@ -4,7 +4,7 @@ title:  "5 Tipps zur Leistungssteigerung beim Bouldern"
 author: robin
 categories: [ Bouldern ]
 tags: [  ]
-image: assets/images/tipps.jpg
+image: assets/images/5-tipps-Leistungssteigerung-bouldern.jpg
 
 ---
 

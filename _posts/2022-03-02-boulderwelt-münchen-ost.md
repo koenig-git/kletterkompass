@@ -4,7 +4,7 @@ title:  "Boulderwelt München Ost"
 author: chris
 categories: [ Bouldern, Outdoor ]
 tags: [ München ]
-image: assets/images/munchenost.jpg
+image: assets/images/münchen-ost-boulderwelt-boulderhalle.jpg
 rating: 4
 ---
 

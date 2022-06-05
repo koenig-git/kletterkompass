@@ -4,7 +4,7 @@ title:  "Stuntwerk Köln"
 author: robin
 categories: [ Bouldern, Freeletics, Ninja Warrior ]
 tags: [ Köln ]
-image: assets/images/stuntwerk.jpg
+image: assets/images/stuntwerk-boulderpark-ninjawarrior-köln.jpg
 rating: 4.5
 
 ---

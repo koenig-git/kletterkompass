@@ -4,7 +4,7 @@ title:  "Einstein Düsseldorf"
 author: sophie
 categories: [ Bouldern ]
 tags: [ Düsseldorf ]
-image: assets/images/einstein.jpg
+image: assets/images/einstein-boulderhalle-düsseldorf.jpg
 rating: 4.5
 
 ---

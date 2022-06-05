@@ -4,7 +4,7 @@ title:  "DAV Kletter- und Boulderzentrum Nord"
 author: chris
 categories: [ Bouldern, Outdoor ]
 tags: [ München ]
-image: assets/images/davnord.jpg
+image: assets/images/dav-nord-kletterzentrum-münchen.jpg
 rating: 4.5
 ---
 

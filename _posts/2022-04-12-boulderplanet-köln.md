@@ -4,7 +4,7 @@ title:  "Boulderplanet Köln"
 author: robin
 categories: [ Bouldern, Outdoor ]
 tags: [ Köln ]
-image: assets/images/planet.jpg
+image: assets/images/boulderplanet-boulderhalle-köln.jpg
 rating: 5
 
 ---
