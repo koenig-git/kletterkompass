@@ -9,11 +9,8 @@ slogan: None
 
 ## Geschäftsführer
 
-Christopher König
-
-Rheindorferstraße 133 
-
-40764 Langenfeld
-
+Christopher König \
+Rheindorferstraße 133 \ 
+40764 Langenfeld \
 info@kletterkompass.com
 
