@@ -16,7 +16,7 @@
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
-</head>
+
 
 {% if jekyll.environment == 'production' %}
 <!-- change your GA id in _config.yml -->
@@ -29,7 +29,7 @@
   gtag('config', '{{site.google_analytics}}');
 </script>
 {% endif %}
-
+</head>
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body>
 	<!-- defer loading of font and font awesome -->
