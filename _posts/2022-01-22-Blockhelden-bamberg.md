@@ -6,6 +6,7 @@ categories: [ Bouldern, Deep Net Soloing ]
 tags: [ Bamberg ]
 image: assets/images/blockhelden-boulderhalle-bamberg.jpg
 rating: 4.5
+seo-alt: "Boulderhalle Auffangnetz Blockhelden Bamberg Wettkampf Indoor Klettern Kletterhalle"
 ---
 
 #### <span style="color:#00c5a1">Soetwas habt ihr noch nicht gesehen!</span>

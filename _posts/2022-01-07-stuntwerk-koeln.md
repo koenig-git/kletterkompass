@@ -6,6 +6,7 @@ categories: [ Bouldern, Freeletics, Ninja Warrior ]
 tags: [ Köln ]
 image: assets/images/stuntwerk-boulderpark-ninjawarrior-köln.jpg
 rating: 4.5
+seo-alt: "Ninja Warrior Flag Stange Halten Bouldern Klettern Boulderhalle Köln Stuntwerk Wettkampf"
 
 ---
 

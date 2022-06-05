@@ -6,6 +6,7 @@ categories: [ Bouldern, Klettern, Speedclimbing, Outdoor ]
 tags: [ Hilden ]
 image: assets/images/bergstation-kletterhalle-hilden.jpg
 rating: 5
+seo-alt: "Bergstation Hilden Klettern Bouldern Kletterhalle Boulderhalle Boulderbundesliga Wettbewerb Wettkampf Indoor Outdoor"
 
 ---
 
