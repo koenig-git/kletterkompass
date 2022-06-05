@@ -6,6 +6,7 @@ categories: [ Bouldern, Outdoor ]
 tags: [ Köln ]
 image: assets/images/boulderplanet-boulderhalle-köln.jpg
 rating: 5
+seo-alt: "word1 word2 word3 word4"
 
 ---
 
