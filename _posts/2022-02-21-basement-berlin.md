@@ -6,6 +6,7 @@ categories: [ Bouldern ]
 tags: [ Berlin ]
 image: assets/images/basement-boulderhalle-berlin.jpg
 rating: 4
+seo-alt: "Style Underground Untergrund Berlin Basement Berlin Bouldern Klettern unterirdisch Kletterhalle Boulderhalle"
 ---
 
 #### <span style="color:#00c5a1">Ein Kellergewölbe war selten so stylisch</span>

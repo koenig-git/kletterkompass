@@ -6,6 +6,7 @@ categories: [ Bouldern, Outdoor ]
 tags: [ München ]
 image: assets/images/münchen-ost-boulderwelt-boulderhalle.jpg
 rating: 4
+seo-alt: "Outdoor Draußen Bouldern München Boulderwelt Ost Lounge chillarea Aussicht Klettern Boulderhalle Kletterhalle"
 ---
 
 #### <span style="color:#00c5a1">Viel Glanz und ein kleiner Schandfleck</span>

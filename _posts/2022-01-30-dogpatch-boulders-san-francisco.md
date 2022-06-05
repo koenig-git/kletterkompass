@@ -6,6 +6,7 @@ categories: [ Travel, Bouldern ]
 tags: [ San Francisco ]
 image: assets/images/dogpatch-boulders-san-francisco.jpg
 rating: 5
+seo-alt: "Bouldern Klettern USA America San Francisco Dogpatch Boulders Reise Wettkampf Boulderhalle Kletterhalle"
 ---
 
 #### <span style="color:#00c5a1">Diese Halle ist schon fast alleine einen Urlaub wert!</span>

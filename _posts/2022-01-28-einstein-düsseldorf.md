@@ -6,6 +6,7 @@ categories: [ Bouldern ]
 tags: [ Düsseldorf ]
 image: assets/images/einstein-boulderhalle-düsseldorf.jpg
 rating: 4.5
+seo-alt: "Bouldern Boulderhalle Einstein Düsseldorf Moonboard Trainingsbereich Indoor Klettern Kletterhalle"
 
 ---
 
