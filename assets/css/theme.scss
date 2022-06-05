@@ -23,6 +23,7 @@ $enable-rounded: false;
     background-size: 0 100%;
     transition: background-size .6s ease;
     position: relative;
+    font-size: 180%;
 }
 
 body, input, button, select, optgroup, textarea {   
@@ -653,6 +654,9 @@ body.active-side {
     }
 }
 @media (max-width: 768px) {
+    .sitetag{
+        font-size: 30px;
+    }
     .posttitle {
         font-size:35px;
     }
@@ -725,6 +729,16 @@ body.active-side {
     }
 }
 @media (max-width: 480px) {
+    .sitetag{
+        font-size: 21px;
+    }
+    .logotext{
+        font-size: 30px;
+    }
+    .navbar-brand img{
+        height: auto;
+        max-width: 17vw;
+    }
     .newsletter {
         .mc-field-group input[type="email"] {
             min-width:170px;
