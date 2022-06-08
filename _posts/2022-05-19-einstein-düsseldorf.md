@@ -7,12 +7,8 @@ tags: [ Düsseldorf ]
 image: assets/images/einstein-boulderhalle-düsseldorf.jpg
 rating: 4.5
 seo-alt: "Bouldern Boulderhalle Einstein Düsseldorf Moonboard Trainingsbereich Indoor Klettern Kletterhalle"
-
 ---
-
-
 #### <span style="color:#00c5a1">Industrie trifft Moderne</span>
-
 Von Außen wirkt die Halle unscheinbar. Eine triste graue Fassade und man kann nirgends Kletterwände oder ähnliches erkennen. Einzig eine rote Feuertreppe, die in die obere Etage führt, spendet ein bisschen Farbe. Vor dem Gebäude fühlt man sich wie in den achtzigern, doch tritt man ein springt man gefühlte 50 Jahre in der Zeit weiter. Moderne Beton- und Stahl-Optik gemischt mit edlem Holz. Lediglich ein paar alte Halleneingangstore erinnern an die damalige Zeit, welche sich aber super in die auf modernisierte Optik ein schmiegt.
 Vielleicht täusche ich mich, aber die Wände wirken hier einen guten halben Meter höher als es in anderen Hallen üblich ist. Auf jeden Fall fühlen sich so gut wie alle Routen ein Ticken länger an und das ist was Gutes! Es ist eine willkommene Abwechslung und es ist viel Muskelausdauer gefragt.
 >Noch nie habe ich eine Halle mit so einer Variation und Anzahl an großen Griffen gesehen. Ein Muss für alle die diese lieben.

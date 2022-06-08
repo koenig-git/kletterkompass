@@ -8,9 +8,7 @@ image: assets/images/dogpatch-boulders-san-francisco.jpg
 rating: 5
 seo-alt: "Bouldern Klettern USA America San Francisco Dogpatch Boulders Reise Wettkampf Boulderhalle Kletterhalle"
 ---
-
 #### <span style="color:#00c5a1">Diese Halle ist schon fast alleine einen Urlaub wert!</span>
-
 Ich habe mein Auslandssemester in Berkeley verbracht und war fast ein halbes Jahr regelmäßig hier bouldern. Wirklich jedes Mal war es ein super Erlebnis! Als Erstes ist man von der schieren Größe der Halle überrascht. Trotz der recht zentralen Lage ist die Halle unglaublich weitläufig.
 
 > Die Routesetter sind weltklasse! Eine unglaubliche Variation und einzigartige Movesets, die von einem abverlangt werden.

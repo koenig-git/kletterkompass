@@ -7,11 +7,8 @@ tags: [ Hilden ]
 image: assets/images/bergstation-kletterhalle-hilden.jpg
 rating: 5
 seo-alt: "Bergstation Hilden Klettern Bouldern Kletterhalle Boulderhalle Boulderbundesliga Wettbewerb Wettkampf Indoor Outdoor"
-
 ---
-
 #### <span style="color:#00c5a1">Das beste Gesamtpaket rund ums Klettern!</span>
-
 Die gesamte Halle inklusive der Außenwand bietet eine riesige Kletterfläche und lässt keine Wünsche offen, egal ob Sport-, Lead- oder Speedclimbing. Aber auch der Boulderbereich hat so einige Überraschungen parat! Hier findet ihr eigens angefertige Griffe, Routen, die euch in wirklich allen Belangen fordern und eine einzigartige Atmosphäre. Ich lehne mich mal weit aus dem Fenster und sage: 
 >Die Routesetter diese Halle gehören zu den besten Deutschlands! Oft findet ihr Boulderprobleme, die ihr noch in keiner anderen Halle gesehen habt. 
 
