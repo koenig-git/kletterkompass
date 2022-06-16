@@ -17,9 +17,8 @@ Eine der wahrscheinlich besten Aussichten beim Bouldern hat man im Outdoorbereic
 Das einzige Manko an der schönen Aussicht, sind die vielen Treppen, die man mit Boulderschuhen immer wieder zwischen den Etagen besteigen muss. Dies ist aber wirklich ein kleiner Preis für dieses einmalige Bouldererlebnis auf Höhe der Dächer Münchens. Aber nicht nur die Halle, auch die Boulderrouten wissen hier zu glänzen. Die Routesetter, sowie die Varianz an Wänden und Neigungen ist einfach tadellos!
 Leider führt dies dazu, dass die Halle sehr gut besucht ist und ihr teilweise 3 Leute vor euch auf einer Route habt. Wir empfehlen Stoßzeiten (vor allem Abends) zu vermeiden. Allgemein empfand ich die Community verglichen zu anderen Hallen bedauerlicherweise etwas distanziert. Ich hab in meinen drei Jahren, in denen ich mehrmals die Woche dort war nur wenige Leute wirklich kennengelernt.
 
-Zuletzt muss ich noch eine Warnung aussprechen! Solltet ihr öfters hierhin gehen wollen, werden ihr sicher etwas von der Dauerkarte gehört haben. Diese wird immer mit dem monatlichen Preis zusammen genannt und ist die Alternative zur Jahreskarte. Diese Karte hat aber auch eine Mindestdauer von 12 Monaten und ist erst danach monatlich kündbar. Diese Info findet ihr natürlich nur im Kleingedruckten. Ich persönlich finde das eine absolute Frechheit und wollte euch diese Information auf jeden Fall zur Hand geben.   
 
-> Fazit: Abgesehen von der Preispolitik und der etwas verschlossenen Community ist dies eine 5 von 5 Halle! Die Boulder und die Aussicht sind ohne Gleichen.
+> Fazit: Die Boulderrouten und die Aussicht sind ohne Gleichen. Leider empfand ich die Leute etwas verschlossen, aber an der Halle gibt es nichts zu meckern.
 
 Die Boulderwelt München Ost liegt in der Hanne-Hiob-Straße 4 und ist gut mit den Öffis, so wie mit dem Auto zu erreichen. Der Eintritt zur "Prime Time" liegt bei Erwachsenen bei 13,90€ und für Ermäßigte bei 12,90€.
 

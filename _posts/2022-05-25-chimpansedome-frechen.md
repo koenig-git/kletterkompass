@@ -26,9 +26,9 @@ Trotzdem, wie gesagt, völlig ausreichend.
 Selten berichte ich über Umkleiden, Duschen oder Toiletten, weil sie meistens in Ordnung sind und was will man mehr? Tja, die Boulderhalle in Frechen hat hier einfach 3 Schippen draufgelegt. Hier ist alles unglaublich hochwertig, modern und sauber. Man will am liebsten vor und nach dem Training die luxuriösen Duschen ausnutzen. Hier sieht es aus wie in einem Spa und nicht in einer Kletterhalle.
 Der Trainingsbereich ist top ausgestattet, mit vielen unterschiedlichen Geräten, Boards und Stangen. Im Sommer gibt es einen Outdoorbereich, mit einer Chillarea und einem riesigen Pool. Dieser war zwar leider abgedeckt, aber hier kann man sicher richtig viel Spaß haben.
 Community wirkte super jung und aufgeschlossen. Ich hatte eine tolle Zeit hier, auch wenn ich vielleicht nicht so gut abgeschnitten habe wie ich es erhofft habe :D
-Gerne wieder. Gerade der Kletterbereich wirkte noch besser.
+Ich komme auf jeden Fall wieder. Spätestens zur Boulderbundesliga im August.
 
-> Fazit: Super gerne wieder
+> Fazit: Für einen super fairen Preis bekommt ihr ein tolles Bouldererlebnis mit Urlaubsfeeling inklusive.
 
 Der Chimpanzodrome in Frechen liegt in der Ernst-Heinrich-Geist-Straße 18. Super einfach mit dem Auto zu erreichen und Parkgelegenheiten gibt es mehr als genug. Wenn ihr in Köln wohnt, könnt ihr auch mit der 7 (Straßenbahn) fast bis vor die Tür fahren. Der Normalpreis beträgt 10,90€ und für Ermäßigte gerade mal 8,90€. Sollte ihr auch Klettern wollen, zahlt ihr 4€ mehr, habt aber den Boulder- und Trainingsbereich auch mit drin. Sowohl das Klettern, als auch das Bouldern ist im Urban Sports Club Abo mit inbegriffen.
 

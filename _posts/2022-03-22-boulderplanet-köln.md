@@ -18,7 +18,7 @@ Hier zu bouldern fühlt sich für mich an wie nach Hause zurückzukehren. Nicht 
 Die Wände, mit vielen unterschiedlichen Neigungen, sowie die Routen selbst sind super vielfältig und lassen an Menge und Qualität keine Wünsche übrig. Der Bereich für das Krafttraining ist riesig und bietet neben Geräten, freien Gewichten und einem Stangenkonstrukt, auch noch Matten für Yoga oder Gymnastik, Trainingswände und eine Tischtennisplatte. Aufgrund von Flutschäden im Jahre 2021 wurde vieles in der Halle frisch renoviert. Alle Matten, einige Wände und viele Elemente der Umkleiden wurden komplett erneuert.
 Auch wenn ich nicht für den Kinderbereich sprechen kann, so sollte angemerkt sein, dass auch dieser ganz Neu ist und mit 300 m^2 mehr als genug Platz zum Austoben bietet.
 
-Diese Halle spielt alleine schon aufgrund ihres Charmes ganz oben mit im deutschen Vergleich. Das einzige kleine Manko, verglichen mit anderen Top-Hallen, wäre, dass nicht allzu viele wirklich große oder einzigartige Griffe oder Volumen vorhanden sind. Bei höheren Schwierigkeitsgraden werden die Griffe oft einfach kleiner. Prinzipiell gerade für Leute, die für den echten Fels üben wollen, nichts Verkehrtes.        
+Diese Halle spielt alleine schon aufgrund ihres Charmes ganz oben mit im deutschen Vergleich. Das einzige kleine Manko, verglichen mit anderen Top-Hallen, wäre, dass nicht allzu viele wirklich große oder einzigartige Griffe oder Volumen vorhanden sind. Bei höheren Schwierigkeitsgraden werden die Griffe oft einfach kleiner. Prinzipiell gerade für Leute, die für Felsklettern in der Natur üben wollen, nichts Verkehrtes.        
 
 > Fazit: Unbedingt einen Besuch wert! Gerade an heißen Tagen oder um Leute kennenzulernen die beste Anlaufstelle.
 
