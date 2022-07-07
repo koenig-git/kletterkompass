@@ -4,7 +4,7 @@ title:  "Einstein Düsseldorf"
 author: sophie
 categories: [ Bouldern ]
 tags: [ Düsseldorf ]
-image: assets/images/einstein-boulderhalle-düsseldorf.jpg
+image: assets/images/einstein-boulderhalle-düsseldorf.webp
 rating: 4.5
 seo-alt: "Bouldern Boulderhalle Einstein Düsseldorf Moonboard Trainingsbereich Indoor Klettern Kletterhalle"
 ---
@@ -19,6 +19,6 @@ Der Zustand der gesamten Halle, der Umkleiden und allen Duschen und Toiletten is
 
 >Fazit: Höhere Wände, fantastische Routen, einzigartige Griffe, unzählige Kurse und eine Sauna...was will man mehr? Somit bleibt nur zu sagen: Probiert diese Halle unbedingt aus!
 
-Das Einstein Düsseldorf liegt in der Lierenfelder Straße 49 und lässt sich super mit dem Auto erreichen. Da die Halle in einem Industriegebiet in Düsseldorf gelegen ist, findet ihr hier problemlos Parkplätze. Auch die Bahn und Bus Verbindung ist gut. Beide Haltestellen dafür befinden sich innerhalb von 5 Gehminuten. Die Tageskarte für das Bouldern liegt bei 12,90€ für Erwachsene und 10,90€ für Ermäßigte. Vor 14 Uhr von Montag bis Freitag spart ihr 2€ Eintritt, durch das Early-Bird-Ticket.
+Das Einstein Düsseldorf liegt in der Lierenfelder Straße 49 und lässt sich super mit dem Auto erreichen. Da die Halle in einem Industriegebiet in Düsseldorf gelegen ist, findet ihr hier problemlos Parkplätze. Auch die Bahn- und Busverbindungen sind gut. Beide Haltestellen sind nur 5 Gehminuten von der Halle entfernt. Die Tageskarte für das Bouldern liegt bei 12,90€ für Erwachsene und 10,90€ für Ermäßigte. Vor 14 Uhr von Montag bis Freitag spart ihr 2€ Eintritt, durch das Early-Bird-Ticket.
 
 Weitere Infos findet ihr unter <a href="https://duesseldorf.einstein-boulder.com/" target="_blank">www.duesseldorf.einstein-bouldern.com</a>

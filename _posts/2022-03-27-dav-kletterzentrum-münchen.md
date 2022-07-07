@@ -4,7 +4,7 @@ title:  "DAV Kletter- und Boulderzentrum Nord"
 author: chris
 categories: [ Bouldern, Outdoor ]
 tags: [ München ]
-image: assets/images/dav-nord-kletterzentrum-münchen.jpg
+image: assets/images/dav-nord-kletterzentrum-münchen.webp
 rating: 4.5
 seo-alt: "Kletterhalle Boulderhalle Aussicht Bouldern Klettern München DAV Nord Wettkampf Cafe"
 ---

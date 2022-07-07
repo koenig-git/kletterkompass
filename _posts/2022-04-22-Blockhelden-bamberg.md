@@ -4,7 +4,7 @@ title:  "Blockhelden Bamberg"
 author: chris
 categories: [ Bouldern, Deep Net Soloing ]
 tags: [ Bamberg ]
-image: assets/images/blockhelden-boulderhalle-bamberg.jpg
+image: assets/images/blockhelden-boulderhalle-bamberg.webp
 rating: 4.5
 seo-alt: "Boulderhalle Auffangnetz Blockhelden Bamberg Wettkampf Indoor Klettern Kletterhalle"
 ---

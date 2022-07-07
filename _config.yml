@@ -17,19 +17,19 @@ authors:
   robin:
     name: Niklas
     display_name: Niklas    
-    avatar: 'assets/images/old.jpg'
+    avatar: 'assets/images/old.webp'
     email: info@kletterkompass.com
     description: "Vor 7 Jahren habe ich mit dem Bouldern im Boulderplanet Köln angefangen und es war Liebe auf den ersten Blick. Ich bin immer in der Region geblieben und hab über die Jahre viele Hallen um Köln herum getestet."
   sophie:
     name: Franzi
     display_name: Franzi
-    avatar: 'assets/images/avatar_franzi.jpg'
+    avatar: 'assets/images/avatar_franzi.webp'
     email: info@kletterkompass.com
     description: "Vor 5 Jahren hat mich Niklas zum Bouldern mitgenommen und seit meinem Urban-Sportsclub-Abo gehe ich wieder regelmäßig. Durch meinen Bürojob sitze ich den ganzen Tag rum und Bouldern ist die perfekte Unterstützung für meinen Rücken. Ich komme aus Köln, arbeite gerade aber in Duisburg."
   chris:
     name: Chris
     display_name: Chris    
-    avatar: 'assets/images/avatar.jpg'
+    avatar: 'assets/images/avatar.webp'
     email: info@kletterkompass.com
     description: "Im ersten Semester haben Niklas und ich uns kennengelernt und gemeinsam das Bouldern für uns entdeckt. Durch meinen Studienverlauf haben sich unsere Wege getrennt, aber das Bouldern blieb. Ich hab in verschiedenen Städten studiert und natürlich jede Halle vor Ort getestet."
   

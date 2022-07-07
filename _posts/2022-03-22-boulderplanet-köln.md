@@ -4,7 +4,7 @@ title:  "Boulderplanet Köln"
 author: robin
 categories: [ Bouldern, Outdoor ]
 tags: [ Köln ]
-image: assets/images/boulderplanet-boulderhalle-köln.jpg
+image: assets/images/boulderplanet-boulderhalle-köln.webp
 rating: 5
 seo-alt: "Outdoor Draußen Pool Feiern Bouldern Spaß Chillen Chillarea Outdoorbereich Sommer Hitze Boulderplanet Köln Klettern Kletterhalle"
 
@@ -24,6 +24,6 @@ Diese Halle spielt alleine schon aufgrund ihres Charmes ganz oben mit im deutsch
 
 
  
-Der Boulderplanet liegt in der Oskar-Jäger-Straße 143H in Köln Ehrenfeld und lässt sich passabel mit Bus oder der Straßenbahn erreichen. Erstaunlich für Köln ist hier, dass das Auto ausnahmsweise mal eine gute Wahl ist. Vor Ort findet ihr immer einen kostenlosen Parkplatz! Der Eintritt beträgt 13,50€ für Erwachsene, Ermäßigte (Studenten) zahlen nur 11,50€. Der Eintritt ist im Urban Sports Club Abo erhalten.
+Der Boulderplanet liegt in der Oskar-Jäger-Straße 143H in Köln Ehrenfeld und lässt sich passabel mit Bus oder der Straßenbahn erreichen. Erstaunlich für Köln ist hier, dass das Auto ausnahmsweise mal eine gute Wahl ist. Vor Ort findet ihr immer einen kostenlosen Parkplatz! Der Eintritt beträgt 13,50€ für Erwachsene, Ermäßigte (Studenten) zahlen nur 11,50€. Der Eintritt ist im Urban Sports Club Abo L und XL enthalten.
 
 Weitere Infos findet ihr unter <a href="https://boulderplanet.de/" target="_blank">www.boulderplanet.de</a>

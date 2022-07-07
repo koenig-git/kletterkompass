@@ -4,7 +4,7 @@ title:  "Basement Boulderstudio Berlin"
 author: sophie
 categories: [ Bouldern ]
 tags: [ Berlin ]
-image: assets/images/basement-Boulderstudio-boulderhalle-berlin.jpg
+image: assets/images/basement-Boulderstudio-boulderhalle-berlin.webp
 rating: 4
 seo-alt: "Style Underground Untergrund Berlin Basement Boulderstudio Berlin Bouldern Klettern unterirdisch Kletterhalle Boulderhalle"
 ---
@@ -19,6 +19,6 @@ Gerade zu Stoßzeiten wird es aber dafür leider doch sehr stickig und warm in d
 
 > Fazit: Unbedingt ausprobieren, alleine für das Erlebnis lohnt es sich! Wenn es geht aber lieber Vormittags.
 
-Das Basement Boulderstudio Berlin liegt in der Stresemannstraße 72. Aufgrund der zentralen Lage empfehlen wir eine Anreise mit der Bahn. 12,90€ für Erwachsene 9,90€ Ermäßigte. Unser Tipp: Wenn ihr früh vor Ort seid zahlt ihr beim Early Bird Tarif auch ohne Ermäßigung nur 9,90€! Das freie Training ist im Urban Sports Club Abo erhalten.
+Das Basement Boulderstudio Berlin liegt in der Stresemannstraße 72. Aufgrund der zentralen Lage empfehlen wir eine Anreise mit der Bahn. 12,90€ für Erwachsene 9,90€ Ermäßigte. Unser Tipp: Wenn ihr früh vor Ort seid zahlt ihr beim Early Bird Tarif auch ohne Ermäßigung nur 9,90€! Das freie Training ist im Urban Sports Club Abo M bis XL enthalten.
 
 Weitere Infos findet ihr unter <a href="https://basement-boulderstudio.de/" target="_blank">www.basement-boulderstudio.de</a>

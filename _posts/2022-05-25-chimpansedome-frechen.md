@@ -4,13 +4,12 @@ title:  "Chimpanzodrome Frechen"
 author: robin
 categories: [ Bouldern, Outdoor, Klettern ]
 tags: [ Frechen ]
-image: assets/images/Chimpanzodrome-frechen-kletterhalle.jpg
+image: assets/images/Chimpanzodrome-frechen-kletterhalle.webp
 rating: 4
 seo-alt: "Frechen Bouldern Klettern Kletterhalle Boulderhalle Boulderbundesliga Outdoor Pool Chimpanzodrome"
 ---
 
 #### <span style="color:#00c5a1">Eine Halle wie aus dem Herzen von Österreich</span>
-
 Erstmal vorneweg, ich habe nur den Boulder- und Trainingsbereich getestet.
 Diese Halle führt euch zunächst weit nach oben, den der Boulderbereich befindet sich im oberen Teil der Halle, was eine willkommene Abwechslung ist. Die Treppe und auch fast alles andere in der Halle ist aus Massivholz. Das viele verarbeite Holz wirkt warm und versprüht einen leichten Do-it-Yourself-Charm. Daneben stehen aber viele moderne, hochwertige Elemente, die unglaublich gut mit dem Holz harmonieren und einen Charme versprühen wie der eines Luxushotels in den Alpen.
 
@@ -30,7 +29,9 @@ Ich komme auf jeden Fall wieder. Spätestens zur Boulderbundesliga im August.
 
 > Fazit: Für einen super fairen Preis bekommt ihr ein tolles Bouldererlebnis mit Urlaubsfeeling inklusive.
 
-Der Chimpanzodrome in Frechen liegt in der Ernst-Heinrich-Geist-Straße 18. Super einfach mit dem Auto zu erreichen und Parkgelegenheiten gibt es mehr als genug. Wenn ihr in Köln wohnt, könnt ihr auch mit der 7 (Straßenbahn) fast bis vor die Tür fahren. Der Normalpreis beträgt 10,90€ und für Ermäßigte gerade mal 8,90€. Sollte ihr auch Klettern wollen, zahlt ihr 4€ mehr, habt aber den Boulder- und Trainingsbereich auch mit drin. Sowohl das Klettern, als auch das Bouldern ist im Urban Sports Club Abo mit inbegriffen.
+<img src="/assets/images/einbinden/Chimpanzodrome-frechen-boulderbereich.webp" alt="Zweiter Boulderbereich" title="Zweiter Boulderbereich" />
+
+Der Chimpanzodrome in Frechen liegt in der Ernst-Heinrich-Geist-Straße 18. Super einfach mit dem Auto zu erreichen und Parkgelegenheiten gibt es mehr als genug. Wenn ihr in Köln wohnt, könnt ihr auch mit der 7 (Straßenbahn) fast bis vor die Tür fahren. Der Normalpreis beträgt 10,90€ und für Ermäßigte gerade mal 8,90€. Sollte ihr auch Klettern wollen, zahlt ihr 4€ mehr, habt aber den Boulder- und Trainingsbereich auch mit drin. Im Urban Sports Club Abo S sind zwei Kurse und der Fitnessbereich inkludiert. Mit dem Abo M könnt ihr zusätzlich den Boulderbereich nutzen. Bei dem Abo L und XL ist auch das Klettern mit dabei.
 
 
 Weitere Infos findet ihr unter <a href="https://chimpanzodrome.de/" target="_blank">www.chimpanzodrome.de</a>
