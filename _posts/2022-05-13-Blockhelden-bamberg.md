@@ -17,6 +17,6 @@ Leider muss ich eure Euphorie etwas bremsen. Ihr müsst dafür zuerst einen Sche
 Die Halle ist verständlicher weise sehr beliebt. Auch wenn es sich auf die immense Größe der Halle etwas verteilt, empfehle ich doch die Stoßzeiten zu vermeiden. Die Halle ist wirklich weit Außerhalb gelegen, was ein kleines Manko ist, aber es gibt immerhin eine Busverbindung. Wenn es überhaupt einen Kritikpunkt gibt, dann vielleicht, dass der Eingang und ein paar Abschnitte in der Halle etwas veraltet bzw. lieblos aussehen. 
 > Fazit: Selbst ohne das Netz-Klettern ist diese Halle alle male einen Besuch wert, mit sowieso!
 
-Die Blockhelden Boulderhalle liegt in der Memmelsdorfer Str. 211, 96052 Bamberg. Die Anreise mit dem Auto ist ok, Parkplätze sind auf jeden Fall genug da. Die Preise gehen von 8,90€ für Ermäßigte unter der Woche vor 15 Uhr bis zu 11,90 für Erwachsene am Wochenende oder nach 15 Uhr. 
+Die Blockhelden Boulderhalle liegt in der Memmelsdorfer Str. 211, 96052 Bamberg. Die Anreise mit dem Auto ist ok, Parkplätze sind auf jeden Fall genug da. Die Preise gehen von 8,90€ für Ermäßigte unter der Woche vor 15 Uhr bis zu 11,90 für Erwachsene am Wochenende oder nach 15 Uhr. Die Preise sind wirklich unschlagbar günstig!
 
 Weitere Infos findet ihr unter <a href="https://blockhelden.de/" target="_blank">www.blockhelden.de</a>

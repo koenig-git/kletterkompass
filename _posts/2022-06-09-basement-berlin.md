@@ -19,6 +19,6 @@ Gerade zu Stoßzeiten wird es aber dafür leider doch sehr stickig und warm in d
 
 > Fazit: Unbedingt ausprobieren, alleine für das Erlebnis lohnt es sich! Wenn es geht aber lieber Vormittags.
 
-Das Basement Boulderstudio Berlin liegt in der Stresemannstraße 72. Aufgrund der zentralen Lage empfehlen wir eine Anreise mit der Bahn. 12,90€ für Erwachsene 9,90€ Ermäßigte. Unser Tipp: Wenn ihr früh vor Ort seid zahlt ihr beim Early Bird Tarif auch ohne Ermäßigung nur 9,90€! Das freie Training ist im Urban Sports Club Abo M bis XL enthalten.
+Das Basement Boulderstudio Berlin liegt in der Stresemannstraße 72. Aufgrund der zentralen Lage empfehlen wir eine Anreise mit der Bahn. 12,90€ für Erwachsene 9,90€ Ermäßigte. Unser Tipp: Wenn ihr früh vor Ort seid zahlt ihr beim Early Bird Tarif auch ohne Ermäßigung nur 9,90€! Das sind wirklich sehr faire Preise für das, was ihr hier geboten bekommt. Das freie Training ist im Urban Sports Club Abo M bis XL enthalten.
 
 Weitere Infos findet ihr unter <a href="https://basement-boulderstudio.de/" target="_blank">www.basement-boulderstudio.de</a>

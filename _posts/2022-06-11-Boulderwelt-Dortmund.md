@@ -28,6 +28,6 @@ Falls ihr ein Schließfach braucht vergisst nicht euer eigenes Schloss mitzubrin
 <img src="/assets/images/einbinden/turnierwand-wettkampfwand-bouldern.webp" alt="Wettkampfwand" title="Wettkampfwand" />
 
 Die Boulderwelt Dortmund liegt in der Brennaborstraße 10 und lässt sich super mit dem Auto erreichen. Einen freien Parkplatz findet ihr hier immer. Zu der Busverbindung kann ich nichts sagen, aber die S1 hält nicht allzu weit entfernt. 
-Die Tageskarte für das Bouldern liegt bei 12,90€ für Erwachsene und 11,90€ für Ermäßigte. In der Happy Hour (Mo-Fr bis 16 Uhr) spart ihr 3€, sowohl auf den regulären, als auch den ermäßigten Preis. Diese Preise sind für das was ihr hier bekommt, echt unschlagbar.
+Die Tageskarte für das Bouldern liegt bei 12,90€ für Erwachsene und 11,90€ für Ermäßigte. In der Happy Hour (Mo-Fr bis 16 Uhr) spart ihr 3€, sowohl auf den regulären, als auch den ermäßigten Preis. Diese Preise sind für das was ihr hier bekommt, echt unschlagbar!
 
 Weitere Infos findet ihr unter <a href="https://www.boulderwelt-dortmund.de/" target="_blank">www.boulderwelt-dortmund.de</a>

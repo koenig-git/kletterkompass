@@ -36,6 +36,6 @@ Vor meinem Fazit möchte ich nochmal betonen, dass dieser Beitrag sich vor allem
 
 <img src="/assets/images/einbinden/superblock-übersicht-griffe.webp" alt="Überblick" title="Überblick" />
 
-Der Superblock in Düsseldorf liegt in der Fichtenstraße 53 und lässt sich super mit dem Auto erreichen. Da die Halle in einem Industriegebiet in Düsseldorf gelegen ist, findet ihr hier problemlos Parkplätze. Auch die Bahn- und Busverbindungen sind gut. Beide Haltestellen sind nur 5 Gehminuten von der Halle entfernt. Die Tageskarte für das Bouldern liegt bei 12€ für Erwachsene und 10€ für Ermäßigte. Vor 13 Uhr von Montag bis Freitag spart ihr 2€ Eintritt beim „normalen“ Tarif und 1.50€ beim schon ermäßigten. Das freie Training ist im Urban Sports Club Abo M bis XL enthalten.
+Der Superblock in Düsseldorf liegt in der Fichtenstraße 53 und lässt sich super mit dem Auto erreichen. Da die Halle in einem Industriegebiet in Düsseldorf gelegen ist, findet ihr hier problemlos Parkplätze. Auch die Bahn- und Busverbindungen sind gut. Beide Haltestellen sind nur 5 Gehminuten von der Halle entfernt. Die Tageskarte für das Bouldern liegt bei 12€ für Erwachsene und 10€ für Ermäßigte. Vor 13 Uhr von Montag bis Freitag spart ihr 2€ Eintritt beim „normalen“ Tarif und 1.50€ beim schon ermäßigten. Ich finde den Preis leider, für das, was ihr hier bekommt und verglichen mit anderen Hallen, leider zu hoch. Das freie Training ist im Urban Sports Club Abo M bis XL enthalten.
 
 Weitere Infos findet ihr unter <a href="https://www.superblock.nrw/" target="_blank">www.superblock.nrw</a>
