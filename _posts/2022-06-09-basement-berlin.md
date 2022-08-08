@@ -9,7 +9,7 @@ rating: 4
 seo-alt: "Style Underground Untergrund Berlin Basement Boulderstudio Berlin Bouldern Klettern unterirdisch Kletterhalle Boulderhalle"
 ---
 #### <span style="color:#00c5a1">Ein Kellergewölbe war selten so stylisch</span>
-In einem angesagten Viertel mitten in Berlin würden die wenigstens eine Boulderhalle vermuten. Doch direkt gegenüber vom Anhalter Bahnhof, Nähe Potsdamer Platz liegt das Basement Boulderstudio Berlin. Der Name kommt nicht von irgendwo her, denn diese Boulderhalle ist komplett unterirdisch. Man könnte annehmen, dass das Fehlen von natürlichem Licht ein großes Manko wäre, aber betritt man einmal die Halle vermisst man dies keine Sekunde während seiner Session. 
+In einem angesagten Viertel mitten in Berlin würden die wenigstens eine Boulderhalle vermuten. Doch direkt gegenüber vom Anhalter Bahnhof, wenige Gehminuten vom Potsdamer Platz liegt das Basement Boulderstudio Berlin. Der Name kommt nicht von irgendwo her, denn diese Boulderhalle ist komplett unterirdisch. Man könnte annehmen, dass das Fehlen von natürlichem Licht ein großes Manko wäre, aber betritt man einmal die Halle vermisst man dies keine Sekunde während seiner Session. 
 
 >Die Decke ist schwarz gestrichen und in Kombination mit dem sichbaren Beton und silbernen Lüftungsschächten, versprüht diese Halle einen einzigartigen Charm und Style wie ich es noch nie gesehen habe. Diese Halle fühlt sich einfach anders an. 
 
