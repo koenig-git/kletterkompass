@@ -2,7 +2,7 @@
 layout: post
 title:  "Regeln und Etikette in einer Boulderhalle"
 author: sophie
-categories: [ Bouldern ]
+categories: [ Bouldern, Tipps ]
 tags: [  ]
 image: assets/images/regeln-und-etikette-in-einer-boulderhalle.webp
 seo-alt: "Bouldern Tipps Regeln Etikette Verhalten Anfänger Anfängertipps Klettern Boulderhalle Kletterhalle"

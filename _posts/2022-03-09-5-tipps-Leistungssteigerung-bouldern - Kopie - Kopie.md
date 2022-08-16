@@ -2,7 +2,7 @@
 layout: post
 title:  "5 Tipps zur Leistungssteigerung beim Bouldern"
 author: robin
-categories: [ Bouldern ]
+categories: [ Bouldern, Tipps ]
 tags: [  ]
 image: assets/images/5-tipps-Leistungssteigerung-bouldern.webp
 seo-alt: "Bouldern Tipps Leistung Leistungssteigerung Anfänger Anfängertipps Aufwärmen Lernen Training Trainieren"
