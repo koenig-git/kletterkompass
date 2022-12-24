@@ -5,7 +5,7 @@ author: chris
 categories: [ Bouldern, Outdoor ]
 tags: [ Köln ]
 image: assets/images/boulderplanet-boulderhalle-köln.webp
-rating: 4.5
+rating: 4
 seo-alt: "Outdoor Draußen Pool Feiern Bouldern Spaß Chillen Chillarea Outdoorbereich Sommer Hitze Boulderplanet Köln Klettern Kletterhalle"
 
 ---
