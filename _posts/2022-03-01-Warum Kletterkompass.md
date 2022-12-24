@@ -19,5 +19,6 @@ Unser Ziel ist es, dir bei der Suche nach der perfekten Boulderhalle zu helfen. 
 
 Wir freuen uns, dass du unsere Testseite besuchst und hoffen, dass wir dir bei der Suche nach der perfekten Boulderhalle weiterhelfen können. Wir haben uns bemüht, möglichst viele Informationen zu sammeln und zu präsentieren, damit du eine fundierte Entscheidung treffen kannst.
 
-## Wenn du Fragen oder Anregungen hast, zögere nicht, uns zu kontaktieren. 
+>Wenn du Fragen oder Anregungen hast, zögere nicht, uns zu kontaktieren. 
+
 Wir sind immer offen für Feedback und nehmen gerne Anregungen von unseren Nutzern entgegen. Wir wünschen dir viel Spaß beim Bouldern und hoffen, dass du bald die perfekte Boulderhalle für dich findest.
