@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "10 Boulder- und Kletterbegriffe erklärt"
-author: chris
+author: sophie
 categories: [ Bouldern, Klettern, Tipps ]
 tags: [  ]
 image: assets/images/10-Boulder-und-Kletterbegriffe.webp
