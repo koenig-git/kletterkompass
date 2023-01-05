@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "10 Boulder- und Kletterbegriffe erklärt"
-author: sophie
+author: chris
 categories: [ Bouldern, Klettern, Tipps ]
 tags: [  ]
 image: assets/images/10-Boulder-und-Kletterbegriffe.webp
-seo-alt: "Bouldern Tipps Klettern Begriffe Boulderbegriffe Kletterbegriffe Fachworte Anfänger Anfängertipps Lernen Trainieren"
+seo-alt: "Bouldern Tipps Klettern Begriffe Fachworte Anfänger Anfängertipps Lernen Trainieren"
 ---
 
 Klettern und Bouldern sind beliebte Sportarten, die immer mehr Menschen für sich entdecken. Doch für Einsteiger:innen kann es manchmal schwer sein, sich in der Welt des Klettersports zurechtzufinden und die vielen Begriffe und Techniken zu verstehen. Aus diesem Grund haben wir in diesem Blogbeitrag die wichtigsten Begriffe aus dem Kletter- und Bouldersport zusammengestellt.

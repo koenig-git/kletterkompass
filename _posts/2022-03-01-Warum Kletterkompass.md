@@ -17,4 +17,4 @@ Egal, ob du Anfänger oder fortgeschrittener Kletterer bist, auf unserer Seite w
 
 >Wenn du Fragen oder Anregungen hast, zögere nicht, uns zu kontaktieren. 
 
-Wir sind immer offen für Feedback und nehmen gerne Anregungen von unseren Nutzern entgegen. Wir wünschen dir viel Spaß beim Bouldern und hoffen, dass du bald die perfekte Boulderhalle für dich findest.
+<b style="color:#20BCA2">Wir sind immer offen für Feedback und nehmen gerne Anregungen von unseren Nutzern entgegen. Wir wünschen dir viel Spaß beim Bouldern und hoffen, dass du bald die perfekte Boulderhalle für dich findest.</b>
