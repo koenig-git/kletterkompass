@@ -20,7 +20,7 @@ Inzwischen ist Bouldern kein Geheimtipp mehr und die Hallen werden immer voller.
 und gemeinsam einfach eine coole Zeit zu haben, kann es auch zu Problemen führen. Gerade beim Bouldern geht nicht jede Route gerade nach oben.
 Schaut euch eure Route an und überprüft, ob ihr während des Kletterns nicht mit anderen Boulder:innen zusammenstoßt.
 Zusätzlich solltet ihr, wenn ihr bei einem Anlauf gescheitert seid, nicht sofort wieder an die Wand springen. Schaut
-erstmal ob, andere Kletter:innen hinter euch warten und lasst ihnen erstmal den Vortritt.
+erstmal ob, andere Kletter:innen hinter euch warten und lasst ihnen erstmal den Vortritt. Sollte jemand gerade Griffe, Volumen oder Wandelemente mit einer Bürste putzen, so lässt man ihm oder ihr den Vortritt und beginnt die Route nicht, nur weil er sich abwendet, um seine Bürste abzulegen.
 
 ## 2. Sicherheit
 
