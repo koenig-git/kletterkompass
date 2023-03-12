@@ -6,7 +6,7 @@
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
-<title>{{ page.title }} | {{site.name}}</title>
+
 
 {% seo %}
     
@@ -52,8 +52,8 @@
         <h3>Navigation</h3>
         <li><a href="{{ site.baseurl }}/">Home</a></li>
         <li><a href="{{ site.baseurl }}/tags">Städte <span class="badge badge-primary">&#127968;</span></a></li>
-        <li><a href="{{ site.baseurl }}/categories">Kategorien </a></li>
-        <li><a href="{{ site.baseurl }}/authors">Das sind wir </a></li>
+        <li><a href="{{ site.baseurl }}/kategorien">Kategorien </a></li>
+        <li><a href="{{ site.baseurl }}/autoren">Das sind wir </a></li>
         <li><a href="{{ site.baseurl }}/kontakt">Kontakt</a></li>       
     </ul>   
 </nav>
@@ -72,7 +72,7 @@
     ================================================== -->
    
     <a class="navbar-brand" href="{{ site.baseurl }}/">
-        <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ Kletterkompass }}">
+        <img src="{{ site.baseurl }}/{{ site.logo }}" alt="Kletterkompass Logo">
         <span class="logotext">{{ site.name }}</span>
     </a>  
    
@@ -80,9 +80,9 @@
     <!-- Site Tag
     ================================================== -->
     {% if page.url == '/' %}
-        <p class="sitetag">
+        <h1 class="sitetag">
             {{ site.description }}
-        </p>
+        </h1>
     {% endif %}
 
     <!-- Content
@@ -96,14 +96,13 @@
     <!-- Newsletter
     ================================================== -->
     <div class="newsletter text-center">
-        <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{Kletterkompass Logo}}"> &nbsp; Teile uns und der Community deine <b>Erfahrungen</b> mit!</span>
+        <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="Kletterkompass Logo"> &nbsp; Teile uns und der Community deine <b>Erfahrungen</b> mit!</span>
         <!-- <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group d-inline-flex">
             <input type="email" placeholder="Your e-mail" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
             <input type="submit" value="Subscribe" name="subscribe" class="heart">
             </div>
         </form> -->
-        <h1><font color=f4f4f4> Kletterkompass: Die erste Kletter- und Boulderhallenvergleichsseite Deutschlands. Hallentests, Erfahrungsberichte und Tipps für Boulderanfänger und Kletteranfänger.</font></h1>
     </div>
     {% endif %}
     {% endif %}
