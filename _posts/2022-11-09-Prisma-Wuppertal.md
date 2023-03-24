@@ -10,7 +10,6 @@ seo-alt: "Kletterhalle Boulderhalle Bouldern Klettern Wuppertal Prisma Wettkampf
 ---
 
 #### <span style="color:#00c5a1">Viel Potenzial ABER...</span>
-
 Ich war bei der Eröffnungsveranstaltung vom Prisma Wuppertal mit dabei und hier erfahrt ihr meinen Ersteindruck von der Halle. 
 Die Ausschilderung zur Halle war definitiv verbesserungswürdig. Parkplätze sind vor der Tür mehr als genug vorhanden, aber man muss in einem großen Industriegebiet erstmal die richtige Zufahrt finden.
 Die Halle selbst ist großzügig geschnitten und bietet mit über 2200 m² Grundfläche genügend Platz für verschiedene Schwierigkeitsgrade und Herausforderungen.
