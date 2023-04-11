@@ -9,8 +9,9 @@ slogan: None
 
 ## Geschäftsführer
 
-Christopher König \
-Rheindorferstraße 133 \ 
-40764 Langenfeld \
-info@kletterkompass.com
+Niklas Robin Binkowski <br />Rheindorferstraße, 133 <br />40764 Langenfeld<br />Telefon: +4915787978168<br />E-Mail: info@kletterkompass.com
+
+Redaktionell verantwortlich:<br />Niklas Robin Binkowski
+
+Angaben gemäß § 5 TMG
 
