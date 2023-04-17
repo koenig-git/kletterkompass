@@ -23,7 +23,7 @@ Der Trainingsbereich ist im Verhältnis zur Halle etwas klein, aber für ein ein
 
 >Fazit: Eine absolute Empfehlung für Boulder:innen, die Top-Outs erleben und meistern wollen. Hier können Anfänger lernen über ihren Schatten zu springen oder Fortgeschrittene den verlorenen Nervenkitzel wiederfinden. Auch Eltern werden, gerade auf den Kinderevents, auf ihre Kosten kommen und in Ruhe das Café oder den Außenbereich genießen können.
 
-<img src="/assets/images/einbinden/monkeyspot-düsseldorf-seitenwand.webp" alt="Wettkampfwand" title="Wettkampfwand" />
+<img src="/assets/images/einbinden/monkeyspot-düsseldorf-seitenwand.webp" width="1200" height="900" alt="Wettkampfwand" title="Wettkampfwand" />
 
 Die Monkeyspot Boulderhalle Düsseldorf liegt in der Schiessstraße 52 und lässt sich super mit dem Auto erreichen. Einen freien Parkplatz findet ihr hier immer. Die Bus- und Bahnverbindung ist auch in Ordnung. Beide halten einige Fußminuten entfernt. 
 Die Tageskarte für das Bouldern liegt bei 12€ für Erwachsene und 10,50€ für Ermäßigte. In der Happy Hour (Mo-Fr bis 12 Uhr) spart ihr 1€, sowohl auf den regulären, als auch auf den ermäßigten Preis. Wirklich faire Preise für das, was ihr hier geboten bekommt.

@@ -19,7 +19,7 @@ Die Schwierigkeiten sind durch aufsteigende Zahlen von 1 bis 7 gekennzeichnet. E
 Die Schwierigkeiten 1 und 2 sind super für Anfänger geeignet. Sie überfordert nicht, sind aber durch das exzellente Routesetting nicht langweilig oder eintönig. Wer bouldern ausprobieren will, oder seine Freunde davon begeistern will, findet hier eine perfekte Anlaufstelle.
 
 
-<img src="/assets/images/einbinden/element-boulders-münchen-überhang.webp" alt="Element-Boulders-München-Überhang-Boulderwände-Branding-Stylisch" title="Element Boulders München Überhangwand"/>
+<img src="/assets/images/einbinden/element-boulders-münchen-überhang.webp" width="1200" height="900" alt="Element-Boulders-München-Überhang-Boulderwände-Branding-Stylisch" title="Element Boulders München Überhangwand"/>
 
 Das Interesse scheint groß zu sein. Es war viel los, aber aufgrund der Weitläufigkeit der Halle hat es sich gut verteilt. 
 Was ich besonders positiv hervorheben möchte, ist die Tatsache, wie viele Aktionen und Anpassungen es schon gibt für die Community. Ich zähle mal nur ein paar auf: jeden Monat kündbares Jahresabo, Frauenbouldertreff, frühere Öffnungszeiten auf Wunsch der Community, Studi-Staturday und noch mehr!
@@ -29,7 +29,7 @@ Falls ihr euch alle Angebote und Infos anschauen wollt: <a href="https://www.xn-
 
 Der Familienbereich ist unglaublich liebevoll gestaltet und hat viel zu bieten für die Kleinen. Hier finden die Kinder Klemmbaustein-Griffe und andere spannende Besonderheiten. Der Bereich ist komplett vom Erwachsenenbereich abgetrennt, was ich immer wichtig finde und soll in Zukunft noch erweitert werden. Zur Community kann ich noch nicht viel sagen, da ich nur zwei Mal dort war. Ich denke aber in so einer neuen Halle findet ihr schnell Leute, die auch einen Boulderpartner suchen.
 
-<img src="/assets/images/einbinden/bistro-element-münchen.webp" alt="Element-Boulders-München-Bistro-Essen-Aussicht-Stylisch" title="Element Boulders München Bistro"/>
+<img src="/assets/images/einbinden/bistro-element-münchen.webp" width="1200" height="900" alt="Element-Boulders-München-Bistro-Essen-Aussicht-Stylisch" title="Element Boulders München Bistro"/>
 
 Wie auch nicht anders zu erwarten, ist der Zustand der gesamten Halle, der Umkleiden und der sanitären Einrichtungen tadellos, modern und einfach schön anzusehen.
 Gerade das Bistro lädt dazu ein, den Tag hier zu verbringen und in der Essenspause, den Leuten beim Bouldern zuzuschauen.

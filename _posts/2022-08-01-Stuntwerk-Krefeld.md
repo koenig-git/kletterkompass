@@ -18,11 +18,11 @@ Da die Halle erst vor sechs Monaten eröffnet wurde, ist alles noch neu, sauber 
 
 >Mein Vater und ich hatten bei diesen Routen besonders viel Spaß. Sie sind dynamisch, kreativ und oft in irgendeiner Art oder Weise besonders. Solche offen Schwierigkeitsgrade laden alle Boulder:innen zum Ausprobieren ein und so etwas finde ich eine super Sache. Vor allem ist man nicht enttäuscht, wenn man mal eine Route nicht schafft, da die Erwartungshaltung ganz anders ist.
 
-<img src="/assets/images/einbinden/Stuntwerk-Krefeld-Ninja-Warrior.webp" alt="Ninja-Warrior-Bereich" title="Ninja-Warrior-Bereich" />
+<img src="/assets/images/einbinden/Stuntwerk-Krefeld-Ninja-Warrior.webp" width="1200" height="900" alt="Ninja-Warrior-Bereich" title="Ninja-Warrior-Bereich" />
 
 Um seine Arme mal etwas zu entlasten, hat mein Vater sich an der Slackline versucht. Leider nicht gerade erfolgreich. Dennoch ist es eine spaßige Abwechslung und ein besseres Gleichgewicht hilft auch beim Bouldern immens weiter. Wie ihr im Hintergrund sehen könnt, gibt es hier unzählige Ninja-Warrior-Übungsgeräte zum ausprobieren und auspowern. Für sportliche, akrobatische Leute ein Traum. Wer für den Ninja-Warrior trainieren möchte, findet keinen besseren Ort als eine Stuntwerk-Halle. Direkt daneben ist ein kleiner Parkourbereich. Wer ein dynamisches Training oder einfach nur bisschen Abwechslung zum Bouldern sucht, ist hier bestens bedient.
 
-<img src="/assets/images/einbinden/Stuntwerk-Krefeld-Kinderbereich.webp" alt="Ninja-Warrior-Bereich" title="Ninja-Warrior-Bereich" />
+<img src="/assets/images/einbinden/Stuntwerk-Krefeld-Kinderbereich.webp" width="1200" height="900" alt="Ninja-Warrior-Bereich" title="Ninja-Warrior-Bereich" />
 
 Völlig umgehauen hat mich der Kinderbereich. In einer eigenen kleinen Halle können die Kinder sich sicher und ungestört austoben. Die Eltern können an ein paar Cafétischen am Rande der Halle entspannen und die Lage im Blick behalten. Zusätzlich gibt es eine Vielzahl an betreuten Angeboten, seien es Geburtstagsfeiern, Kindertrainings oder Feriencamps. Ein besseres Angebot kann man sich als Elternteil nicht wünschen. Die Erwachsenen ohne Kinder gehen aber nicht leer aus, ganz im Gegenteil. Es gibt Einsteigerkurse für das Bouldern, den Ninja-Warrior-Bereich und den Parkour. Zusätzlich dazu werden neben zwei Fitnesskursen auch noch vier unterschiedliche Yogakurse angeboten. Gerade den Ninja-Warrior-Kurs finde ich spannend, da dort die Einstiegshürde doch etwas höher zu sein scheint als beim Bouldern. Wenn ihr auch Interesse an dem Kurs habt, schreibt gerne einen Kommentar und vielleicht probiere ich ihn dann mal für euch aus.
 

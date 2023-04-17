@@ -29,7 +29,7 @@ Parallel zu unserem Besuch fand ein Kindergeburtstag statt. Zwar ist der Kinderb
 
 
 
-<img src="/assets/images/einbinden/einstein-duisburg-trainingsbereich.webp" alt="Einstein-Duisburg-Trainingsbereich-Campusboard-Hangboard-Trampolin" title="Einstein Duisburg Trainingsbereich mit Campusboard Hangboard und Trampolin"/>
+<img src="/assets/images/einbinden/einstein-duisburg-trainingsbereich.webp" width="1200" height="900" alt="Einstein-Duisburg-Trainingsbereich-Campusboard-Hangboard-Trampolin" title="Einstein Duisburg Trainingsbereich mit Campusboard Hangboard und Trampolin"/>
 
 
 >Der Trainingsbereich ist riesig. Hier kommt die enorme Grundfläche der Halle besonders zum Vorschein. Man hat unglaublich viel Platz, um mit Bändern, Gewichten oder Balance Boards zu arbeiten. Das Highlight ist aber ein riesiges Trampolin, welches noch dazu eine extra gepolsterte Wand an der Außenseite hat, um Tricks machen zu können. Dazu kommen jeweils ein Campusboard, ein Hangboard, ein Steckbrett und eine Systemwand. Dieser Trainingsbereich ist wirklich perfekt für das Boulder- und Klettertraining!
