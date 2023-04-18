@@ -25,7 +25,7 @@ Der Trainingsbereich ist verhältnismäßig zur Hallengröße klein, aber vollko
 Falls ihr ein Schließfach braucht vergisst nicht euer eigenes Schloss mitzubringen.
 >Fazit: Ich habe, um ehrlich zu sein, keine großen Erwartungen gehabt, aber diese Halle setzt ganz andere Maßstäbe. Noch nie habe ich so toll konzipierte und kreative Routen geklettert. Wirklich alles, nicht nur die Routen, war durchdacht und zur Perfektion umgesetzt. Probiert unbedingt diese Boulderhalle aus und schreibt uns eure Erfahrung in die Kommentare! Obwohl ich diese Halle uneingeschränkt empfehlen kann, möchte ich besonders an Anfänger und Fortgeschrittene appellieren diese auszuprobieren.
 
-<img src="/assets/images/einbinden/turnierwand-wettkampfwand-bouldern.webp" alt="Wettkampfwand" title="Wettkampfwand" />
+<img src="/assets/images/einbinden/turnierwand-wettkampfwand-bouldern.webp" loading="lazy" width="1200" height="900" alt="Wettkampfwand" title="Wettkampfwand" />
 
 Die Boulderwelt Dortmund liegt in der Brennaborstraße 10 und lässt sich super mit dem Auto erreichen. Einen freien Parkplatz findet ihr hier immer. Zu der Busverbindung kann ich nichts sagen, aber die S1 hält nicht allzu weit entfernt. 
 Die Tageskarte für das Bouldern liegt bei 12,90€ für Erwachsene und 11,90€ für Ermäßigte. In der Happy Hour (Mo-Fr bis 16 Uhr) spart ihr 3€, sowohl auf den regulären, als auch den ermäßigten Preis. Diese Preise sind für das was ihr hier bekommt, echt unschlagbar!
