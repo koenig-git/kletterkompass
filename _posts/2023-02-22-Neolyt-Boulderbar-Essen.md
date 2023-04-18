@@ -17,13 +17,13 @@ Eine stillgelegte Fabrikhalle in Essen, in der nun eine Boulderhalle untergebrac
 
  Als Fortgeschrittener konnte ich mich in den Schwierigkeitsgraden 4 bis 6 austoben und das war wirklich eine große Auswahl. Die Routen waren sehr abwechslungsreich, kreativ und mit vielen verschiedenen Griffen ausgestattet. Für mich persönlich waren sie vielleicht alle ein bisschen zu „gerade nach oben“. Der Vorteil ist natürlich, dass die Routen alle sehr ordentlich und übersichtlich nebeneinander lagen und es keine Verwechslungsgefahr gab oder man sich beim Bouldern benachbarter Routen in die Quere kam. Trotzdem klettere oder springe ich gerne an der Wand entlang und davon gab es leider nur eine Handvoll Routen. Aber das ist wohl auch Geschmackssache und eine Folge der anfängerfreundlicheren Ausrichtung.
 
-<img src="/assets/images/einbinden/neoliet-schrägwand-profis.webp" width="1200" height="900" alt="Neoliet-Schrägwand-Profis-schwere-Kletterroute" title="Neoliet Schrägwand für Profis schwere Kletterroute"/>
+<img src="/assets/images/einbinden/neoliet-schrägwand-profis.webp" loading="lazy" width="1200" height="900" alt="Neoliet-Schrägwand-Profis-schwere-Kletterroute" title="Neoliet Schrägwand für Profis schwere Kletterroute"/>
 
 Für die Semiprofis gab es einen Bereich mit einer langen Schrägwand, der mit besonders schwierigen und langen Routen bestückt war. Leider war das auch schon alles. Im restlichen Teil der Halle gibt es auch einige wirklich schwierige Routen, aber das ist eher selten.
 Die Halle hat einen Kinderbereich, der aber nicht abgetrennt ist, sondern im Gegenteil einige Überschneidungen mit den „normalen“ Routen hat. Vielleicht ist das so gewollt, damit die Eltern zwischendurch auch mal klettern können, aber ich persönlich bevorzuge komplett getrennte Kletterbereiche. Direkt neben dem Familienbereich gibt es noch eine kleine Top-Out-Wand, die aber auch von vielen Kindern genutzt wird. Das bietet eine schöne Abwechslung für alle. 
 Der Trainingsbereich wiederum ist gerade im Verhältnis zur Hallengröße und zu dem, was andere Hallen auffahren, recht klein, aber für mich ausreichend. Gerade für spezifisches Klettertraining hat man hier ein modernes Kilterboard und dazu noch ein paar Stangen für ein CrossFit-Training. Dazu gibt es ein paar Gewichte und eine rudimentäre Hantelbank. 
 
-<img src="/assets/images/einbinden/neoliet-trainingsbereich-boulderhalle.webp" width="1200" height="900" alt="Neoliet-Trainingsbereich-Boulderhalle-Trainingswand" title="Neoliet Trainingsbereich Boulderhalle Trainingswand"/>
+<img src="/assets/images/einbinden/neoliet-trainingsbereich-boulderhalle.webp" loading="lazy" width="1200" height="900" alt="Neoliet-Trainingsbereich-Boulderhalle-Trainingswand" title="Neoliet Trainingsbereich Boulderhalle Trainingswand"/>
 
 Versüßt wird der Besuch durch die Möglichkeit, hier noch kostenlos Billard zu spielen. Ich war sehr angetan und blieb gleich noch 40 Minuten länger. Gerade mit all den alten Möbeln und dem Billardtisch versprüht dieser Raum einen Charme, der zum Verweilen einlädt.
 

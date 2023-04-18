@@ -12,7 +12,7 @@ seo-alt: "Bouldern Boulderhalle Einstein Duisburg Trainingsbereich Trampolin Ind
 Da ich von der Einstein Boulderhalle in Düsseldorf nur Positives gehört habe, dachte ich mir probieren wir mal den Ableger in Duisburg aus.
 Der Ersteindruck, wenn man in die Halle kommt: Sie ist weitläufig und die Decke ist schön hoch. Auch wenn einige Bereiche voneinander abgetrennt sind, findet alles unter dem gleichen Dach statt.  Schon beim Aufwärmen fallen einige Besonderheiten in dieser Halle auf. Alles was lila ist, auch Griffe und eben nicht nur Volumen dürfen hier immer mitbenutzen werden. Aus anderen Hallen bin ich so etwas nicht gewohnt und musste auch erst von einigen Locals aufgeklärt werden. Ein verbaler Hinweis für Neukunden oder ein geschriebener Hinweis wären schon nett. Zusätzlich nimmt man bei einigen Routen Startgriffe von anderen Routen mit. Auch wenn es, durch die Beschilderung, in den meisten Fällen klappt, wirkt es einfach sehr umständlich. Wenn ich die Route mit grünen Griffen klettern will, dann schaue ich ja nicht, ob bei den schwarzen Griffen jetzt ein Hinweis ist, dass ich diesen Griff als Start für die Grüne nutzen soll.
 
-<img src="/assets/images/einbinden/einstein-duisburg-lila-griffe-boulderwand.webp" alt="Einstein-Duisburg-lila-Griffe-Boulderwand-Besonderheit" title="Einstein Duisburg Boulderwand mit lila Griffen" />
+<img src="/assets/images/einbinden/einstein-duisburg-lila-griffe-boulderwand.webp" loading="lazy" alt="Einstein-Duisburg-lila-Griffe-Boulderwand-Besonderheit" title="Einstein Duisburg Boulderwand mit lila Griffen" />
 
 Zusätzlich haben einige Routen am obersten Griff ein Schild mit „Top“ dran. Logische Schlussfolgerung: wenn an dem Griff kein Top-Schild dran ist, ist es ein Top-Out. Ne stimmt auch nicht. Die meisten Routen sind keine Top-Outs, haben aber auch keinen „Top“-Aufkleber. Warum man dann vereinzelt welche hinmacht, ist mir unklar.
 
@@ -29,7 +29,7 @@ Parallel zu unserem Besuch fand ein Kindergeburtstag statt. Zwar ist der Kinderb
 
 
 
-<img src="/assets/images/einbinden/einstein-duisburg-trainingsbereich.webp" width="1200" height="900" alt="Einstein-Duisburg-Trainingsbereich-Campusboard-Hangboard-Trampolin" title="Einstein Duisburg Trainingsbereich mit Campusboard Hangboard und Trampolin"/>
+<img src="/assets/images/einbinden/einstein-duisburg-trainingsbereich.webp" loading="lazy" width="1200" height="900" alt="Einstein-Duisburg-Trainingsbereich-Campusboard-Hangboard-Trampolin" title="Einstein Duisburg Trainingsbereich mit Campusboard Hangboard und Trampolin"/>
 
 
 >Der Trainingsbereich ist riesig. Hier kommt die enorme Grundfläche der Halle besonders zum Vorschein. Man hat unglaublich viel Platz, um mit Bändern, Gewichten oder Balance Boards zu arbeiten. Das Highlight ist aber ein riesiges Trampolin, welches noch dazu eine extra gepolsterte Wand an der Außenseite hat, um Tricks machen zu können. Dazu kommen jeweils ein Campusboard, ein Hangboard, ein Steckbrett und eine Systemwand. Dieser Trainingsbereich ist wirklich perfekt für das Boulder- und Klettertraining!

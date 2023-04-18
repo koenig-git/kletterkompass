@@ -29,7 +29,7 @@ Ich komme auf jeden Fall wieder. Spätestens zur Boulderbundesliga im August.
 
 > Fazit: Für einen super fairen Preis bekommt ihr ein tolles Bouldererlebnis mit Urlaubsfeeling inklusive.
 
-<img src="/assets/images/einbinden/Chimpanzodrome-frechen-boulderbereich.webp" width="1200" height="900" alt="Zweiter Boulderbereich" title="Zweiter Boulderbereich" />
+<img src="/assets/images/einbinden/Chimpanzodrome-frechen-boulderbereich.webp" loading="lazy" width="1200" height="900" alt="Zweiter Boulderbereich" title="Zweiter Boulderbereich" />
 
 Der Chimpanzodrome in Frechen liegt in der Ernst-Heinrich-Geist-Straße 18. Super einfach mit dem Auto zu erreichen und Parkgelegenheiten gibt es mehr als genug. Wenn ihr in Köln wohnt, könnt ihr auch mit der 7 (Straßenbahn) fast bis vor die Tür fahren. Der Normalpreis beträgt 10,90€ und für Ermäßigte gerade mal 8,90€. Sollte ihr auch Klettern wollen, zahlt ihr 4€ mehr, habt aber den Boulder- und Trainingsbereich auch mit drin. Wirklich unschlagbar günstige Preise! Im Urban Sports Club Abo S sind zwei Kurse und der Fitnessbereich inkludiert. Mit dem Abo M könnt ihr zusätzlich den Boulderbereich nutzen. Bei dem Abo L und XL ist auch das Klettern mit dabei.
 

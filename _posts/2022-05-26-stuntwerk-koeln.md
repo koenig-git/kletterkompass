@@ -14,7 +14,7 @@ Das Stunwerk Köln liegt in einem stylischen, modernisierten Industriegebiet im 
 
 Der Boulderbereich ist aber hier trotz aller Besonderheiten, meiner Meinung nach, das absolute Highlight! Die Wände sind unglaublich abwechslungsreich, egal ob gerade, geneigt oder nach innen gekrümmt. Mein Lieblingsabschnitt ist eine Zylinderförmige-Wand (ähnlich wie ein Turm), welche ich so noch in keiner anderen Boulderhalle gesehen habe. Gerade die Wettkampfwand im hinteren Bereich der Halle ist immer mit spannenden und innovativen Routen für fortgeschrittene Kletter:innen gespickt. 
 
-<img src="/assets/images/einbinden/stuntwerk-köln-wettkampfwand.webp" width="1200" height="900" alt="Wettkampfwand" title="Wettkampfwand" />
+<img src="/assets/images/einbinden/stuntwerk-köln-wettkampfwand.webp" loading="lazy" width="1200" height="900" alt="Wettkampfwand" title="Wettkampfwand" />
 
 Nicht verwunderlich ist die Tatsache, dass die Halle immer gut besucht. Durch die Größe der Halle verteilt es sich gut, aber gerade an den einstiger-freundlicheren Abschnitten kann es schon mal vorkommen, dass ihr warten müsst. Wenn ihr die Stoßzeiten abends vermeidet, werdet ihr aber auf gar keinen Fall Probleme haben. Noch dazu ist die Community super nett und freundlich. Oft hab ich dann beim Warten, mit Leuten über das gemeinsame Boulderproblem gequatscht und dann vergeht die Zeit wie im Flug.
 
@@ -26,7 +26,7 @@ Einziger Kritikpunkt wäre, dass weder die Wettkampfwände aufgrund ihres Schwie
 >Fazit: Für erfahre Boulder:innen und Ninja Warrior Fans ein absolutes muss! Auch für alle anderen gibt es unglaublich viel auszuprobieren und zu bestaunen. Gerade das vielfältige Kursangebot sollte man unbedingt in Anspruch nehmen. Diese Boulderhalle ist immer einen Besuch wert.
 
 
-<img src="/assets/images/einbinden/stuntwerk-köln-eingangsbereich.webp" width="1200" height="900" alt="Eingangsbereich" title="Eingangsbereich" />
+<img src="/assets/images/einbinden/stuntwerk-köln-eingangsbereich.webp" loading="lazy" width="1200" height="900" alt="Eingangsbereich" title="Eingangsbereich" />
 
 Das Stuntwerk liegt in der Schanzenstraße 6 in Köln Mülheim und lässt sich super mit der Bahn über den Bahnhof Mülheim erreichen. Auch mit dem Auto hat man genug Parkplatzmöglichkeiten, um eine angenehme Anreise zu gewähren. Der Eintritt beträgt 13€ für Erwachsene und 10,50€ für Ermäßigte. Wirklich faire Preise für all das, was ihr hier geboten bekommt.
 Kleiner Tipp: Wenn ihr Lust auf authentisches türkisches Essen habt, geht nach dem Bouldern in der Keupstraße essen. Das Mevlana ist als Restaurant, wie auch als Take-away eine perfekte Anlaufstelle.
