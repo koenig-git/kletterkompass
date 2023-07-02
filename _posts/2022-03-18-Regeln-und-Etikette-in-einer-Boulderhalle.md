@@ -39,3 +39,6 @@ um die Toiletten zu benutzen. Egal wie ihr es macht, sorgt dafür, dass eure Sch
 ## Fazit
 Das war es eigentlich auch schon. Die Boulderhalle ist keine verschlossene Community, ganz im Gegenteil. Hier findet ihr die nettesten und offenen Menschen überhaupt. Seid freundlich und offen und ihr werdet gleiches zurück erfahren. Spricht ruhig Leute in der Halle an, wenn ihr Fragen habt.
 Ich hoffe, die paar Infos konnten euch helfen und ihr seid etwas sicherer bei eurem ersten Besuch in einer Boulderhalle.
+
+Wenn euch ein Beitrag interessiert, wie ihr am besten und schnellsten eure Leistung beim Bouldern steigert, findet ihr den hier:               
+<a href="https://kletterkompass.com/5-tipps-zur-Leistungssteigerung-beim-bouldern/" target="_blank">https://kletterkompass.com/5-tipps-zur-Leistungssteigerung-beim-bouldern/</a> 

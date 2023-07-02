@@ -18,3 +18,6 @@ Egal, ob du Anfänger oder fortgeschrittener Kletterer bist, auf unserer Seite w
 >Wenn du Fragen oder Anregungen hast, zögere nicht, uns zu kontaktieren. 
 
 <b style="color:#20BCA2">Wir sind immer offen für Feedback und nehmen gerne Anregungen von unseren Nutzern entgegen. Wir wünschen dir viel Spaß beim Bouldern und hoffen, dass du bald die perfekte Boulderhalle für dich findest.</b>
+
+Hier findest du unseren ersten Beitrag über die Regeln und die Etikette in einer Boulder:                                                            
+<a href="https://kletterkompass.com/Regeln-und-Etikette-in-einer-Boulderhalle/" target="_blank">https://kletterkompass.com/Regeln-und-Etikette-in-einer-Boulderhalle</a> 

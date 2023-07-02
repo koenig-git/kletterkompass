@@ -17,6 +17,8 @@ Leider muss ich eure Euphorie etwas bremsen. Zuerst müsst ihr euch für 10 Euro
 Die Halle ist verständlicherweise sehr beliebt. Auch wenn es sich in der riesigen Halle etwas verteilt, empfehle ich die Stoßzeiten zu meiden. Die Halle liegt sehr weit außerhalb, was ein kleiner Nachteil ist, aber immerhin gibt es eine Busverbindung. Wenn es überhaupt etwas zu kritisieren gibt, dann vielleicht, dass der Eingang und einige Bereiche in der Halle etwas veraltet bzw. lieblos aussehen. 
 > Fazit: Auch ohne Netzklettern ist diese Halle einen Besuch wert! Wer öfters vorbeikommen kann sollte das Deep Net Soloing unbedingt ausprobieren. Es gibt kaum eine Boulderhalle in Deutschland die euch dieses Erlebnis bieten kann.
 
+Falls ihr unseren Testbericht vom der exzellenten Boulderwelt München Ost lesen wollt findet ihr den hier: <a href="https://kletterkompass.com/boulderwelt-muenchen-ost/" target="_blank">www.kletterkompass.com/boulderwelt-muenchen-ost</a>  
+
 Die Blockhelden Boulderhalle befindet sich in der Memmelsdorfer Str. 211, 96052 Bamberg. Die Anreise mit dem Auto ist problemlos, Parkplätze sind ausreichend vorhanden. Die Preise liegen zwischen 8,90€ für Ermäßigte unter der Woche vor 15 Uhr und 11,90€ für Erwachsene am Wochenende oder nach 15 Uhr. Die Preise sind wirklich unschlagbar!
 
 Weitere Infos findet ihr unter <a href="https://blockhelden.de/" target="_blank">www.blockhelden.de</a>

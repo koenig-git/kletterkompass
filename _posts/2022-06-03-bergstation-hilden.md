@@ -19,6 +19,9 @@ Solltet ihr einmal erschöpft auf der Matte liegen ist es gar nicht so unwahrsch
 Der Zustand der gesamten Halle, der Umkleiden und allen Duschen und Toiletten ist tadellos. Alles ist sauber und modern eingerichtet. 
 >Fazit: Diese Halle bietet wahrscheinlich das beste Gesamtpaket für alle Klettersportarten in ganz Deutschland. Uneingeschränkt empfehlbar! Es lohnt sich sogar, nur für den Boulderbereich mal vorbeizukommen. 
 
+Falls ihr einen unserer neusten Testberichte, von der Neolyt Boulderbar Essen lesen wollt findet ihr den hier:            
+<a href="https://kletterkompass.com/Neolyt-Boulderbar-Essen/" target="_blank">www.kletterkompass.com/Neolyt-Boulderbar-Essen</a>  
+
 Die Bergstation liegt in der Bahnhofsallee 35 in Hilden und lässt sich super mit der Bahn, dem Bus oder mit dem Auto erreichen. Einen freien Parkplatz findet man in der Regel, nur an ganz vollen Tagen könnte es etwas eng werden. Die Tageskarte für das Bouldern liegt bei 12€ für Erwachsene und 10€ für Ermäßigte. Fürs Klettern zahlt ihr 16€ als Erwachsener, 14€ für Ermäßigte. Wirklich faire Preise, für das, was ihr hier bekommt, gerade beim Klettern.
 
 Weitere Infos findet ihr unter <a href="https://bergstation.nrw/" target="_blank">www.bergstation.nrw</a>

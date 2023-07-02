@@ -17,8 +17,10 @@ Natürlich werden diese gekonnt in Szene gesetzt, vor allem im Wettkampfteil der
 Wenn ihr zu Fortgeschrittenen werden wollt, hilft euch sicher der moderne und gut ausgestattete Trainingsbereich weiter. Hier könnt ihr perfekt individualisierbare Workout durchführen, dank verschiedener Boards und Kursangebote. Neben den üblichen Verdächtigen, dem Campus- und dem MoonBoard, gibt es hier auch ein Kilterboard (stark neigbar), zwei Spray Walls und ein Pegboard. Dazu gibt es ein super Yoga- und CrossFit-Angebot, neben reinen Boulderkursen für Anfänger und Fortgeschrittene.
 Der Zustand der gesamten Halle, der Umkleiden und allen Duschen und Toiletten ist tadellos. Alles ist sauber und modern eingerichtet. Dies ist auch die erste Halle mit Sauna, von der ich gehört habe. Leider kam ich nicht in den Genuss sie zu testen, aber werde dies auf jeden Fall nachholen.
 
->Fazit: Höhere Wände, fantastische Routen, einzigartige Griffe, unzählige Kurse und eine Sauna...was will man mehr? Somit bleibt nur zu sagen: Probiert diese Halle unbedingt aus!
+>Fazit: Höhere Wände, fantastische Routen, einzigartige Griffe, unzählige Kurse und eine Sauna...was will man mehr? Bleibt nur zu sagen: Probiert diese Halle unbedingt aus! Deutlich besser als der kleine Bruder in Duisburg.
 
+
+Falls ihr unseren Testbericht vom Einstein Duisburg lesen wollt, findet ihr den hier: <a href="https://kletterkompass.com/einstein-Duisburg/" target="_blank">www.kletterkompass.com/einstein-Duisburg</a>  
 Das Einstein Düsseldorf liegt in der Lierenfelder Straße 49 und lässt sich super mit dem Auto erreichen. Da die Halle in einem Industriegebiet in Düsseldorf gelegen ist, findet ihr hier problemlos Parkplätze. Auch die Bahn- und Busverbindungen sind gut. Beide Haltestellen sind nur 5 Gehminuten von der Halle entfernt. Die Tageskarte für das Bouldern liegt bei 12,90€ für Erwachsene und 10,90€ für Ermäßigte. Vor 14 Uhr von Montag bis Freitag spart ihr 2€ Eintritt, durch das Early-Bird-Ticket. Für all das, was ihr hier geboten bekommt, sind das, wirklich günstige Preise!
 
 Weitere Infos findet ihr unter <a href="https://duesseldorf.einstein-boulder.com/" target="_blank">www.duesseldorf.einstein-bouldern.com</a>

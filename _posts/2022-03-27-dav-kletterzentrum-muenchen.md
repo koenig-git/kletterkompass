@@ -22,6 +22,8 @@ Die DAV Halle liegt leider etwas weiter außerhalb und ihr müsst wenn ihr die U
 
 > Fazit: Diese Halle ist ein beeindruckendes Gesamtpaket und auf jeden Fall einen Besuch wert!
 
+Falls ihr unseren Testbericht von der neuen Boulderhalle ELEMENT Boulders München lesen wollt findet ihr den hier: <a href="https://kletterkompass.com/ELEMENT-Boulders-Muenchen/" target="_blank">https://kletterkompass.com/ELEMENT-Boulders-Muenchen</a> 
+
 Das DAV Kletter- und Boulderzentrum Nord liegt in der Werner-Heisenberg-Allee 5 und ist gut mit dem Auto zu erreichen. Mit den Öffis ist es etwas umständlicher aber noch in Ordnung. Der Eintritt ohne DAV-Mitgliedschaft kostet für Erwachsenen 18€, nur Bouldern hingegen 10,90€. Mitglieder der DAV klettern hier deutlich günstiger je nach dem welche Mitgliedschaft sie haben.
 
 Weitere Infos findet ihr unter <a href="https://www.kbfreimann.de/" target="_blank">www.kbfreimann.de</a>

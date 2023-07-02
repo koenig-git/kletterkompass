@@ -21,6 +21,8 @@ Für eine solch schöne Halle zahlt man aber auch einen Preis. Die Halle sehr gu
 
 > Fazit: Die Boulderrouten und die Aussicht sind ohne Gleichen. Leider empfand ich die Leute etwas verschlossen, aber an der Halle gibt es nichts zu meckern.
 
+Falls ihr unseren Testbericht vom nahegelegenen und umwerfenden ELEMENT Boulders München lesen wollt findet ihr den hier: <a href="https://kletterkompass.com/ELEMENT-Boulders-Muenchen/" target="_blank">www.kletterkompass.com/ELEMENT-Boulders-Muenchen</a>  
+
 Die Boulderwelt München Ost liegt in der Hanne-Hiob-Straße 4 und ist gut mit den Öffis, so wie mit dem Auto zu erreichen. Der Eintritt zur "Prime Time" liegt bei Erwachsenen bei 13,90€ und für Ermäßigte bei 12,90€. Für München sind das sehr faire Preise.
 
 Weitere Infos findet ihr unter <a href="https://www.boulderwelt-muenchen-ost.de/" target="_blank">www.boulderwelt-muenchen-ost.de</a>

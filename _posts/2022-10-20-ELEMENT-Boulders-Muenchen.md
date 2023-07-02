@@ -34,7 +34,9 @@ Der Familienbereich ist unglaublich liebevoll gestaltet und hat viel zu bieten f
 Wie auch nicht anders zu erwarten, ist der Zustand der gesamten Halle, der Umkleiden und der sanitären Einrichtungen tadellos, modern und einfach schön anzusehen.
 Gerade das Bistro lädt dazu ein, den Tag hier zu verbringen und in der Essenspause, den Leuten beim Bouldern zuzuschauen.
 
-> Fazit: Eine Halle so nah an der Perfektion wie ich es so noch nicht in Deutschland gesehen habe. Überzeugt euch unbedingt selbst, wenn ihr vor Ort seid. Sollte die Halle dieses Niveau halten, bin ich umso mehr begeistert. Das Element Boulder München macht es vor, wie man eine neue Halle richtig baut und führt!
+> Fazit: Eine Halle so nah an der Perfektion wie ich es so noch nicht in Deutschland gesehen habe. Überzeugt euch unbedingt selbst, wenn ihr vor Ort seid. Sollte die Halle dieses Niveau halten, bin ich umso mehr begeistert. Das Element Boulder München macht es vor, wie man eine neue Halle richtig baut und führt! Gerade die beste Halle Münchens!
+
+Falls ihr unseren Testbericht von der Boulderwelt München Ost lesen wollt, eine Halle über den Dächern Münchens, findet ihr den hier: <a href="https://kletterkompass.com/boulderwelt-muenchen-ost/" target="_blank">www.kletterkompass.com/boulderwelt-muenchen-ost</a>  
 
 Das ELEMENT Boulders München liegt in der Zielstattstraße 23 und ist sowohl mit der Bahn als auch mit dem Bus gut erreichbar. Es gibt auch begrenzte Parkplätze hinter der Halle. Ihr könnt euch online vorab schon anmelden und auch bezahlen. Dadurch spart ihr nicht nur Zeit vor Ort, sondern bekommt auch 0.50€-3€ Ermäßigung. Der Eintritt für Erwachsene vor Ort kostet 12,50€ und für Ermäßigte 10.50€. Wenn ihr euch jetzt online für eine 10er Karte entscheidet, kommt ihr schon auf einen Preis pro Eintritt von 10.80€ und 9€ für Ermäßigte. Für München sind das echt unschlagbare Preise. Alle weiteren Preise und Abos findet ihr hier: <a href="https://www.xn--element-mnchen-osb.de/preise-oeffnungszeiten.html" target="_blank">www.element-münchen.de/preise</a>
 

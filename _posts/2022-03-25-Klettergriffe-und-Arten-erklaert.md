@@ -43,5 +43,8 @@ Half Open sind Klettergriffe, die zwischen Slopern und Crimp angesiedelt sind. S
 
 
 
-
 <b style="color:#20BCA2">Hoffentlich konnten euch dieser Blogbeitrag helfen, etwas über Griffe, ihre Zusammensetzung und ihre Arten, besser zu verstehen. Kommentiert gerne Bouldergriffe, welche wir vergessen haben und die wir vielleicht in einem nächsten Blogbeitrag erläutern sollten. Teilt diesen Beitrag gerne mit eurem Boulderparnter oder eurer Boulderpartnerin.</b>
+
+
+Wenn euch ein Beitrag interessiert, wo wir Boulder- und Kletterbegriffe erklären, findet ihr den hier:                                               
+<a href="https://kletterkompass.com/10-Boulder-und-Kletterbegriffe-erklaert/" target="_blank">https://kletterkompass.com/10-Boulder-und-Kletterbegriffe-erklaert</a> 

@@ -25,7 +25,7 @@ Einziger Kritikpunkt wäre, dass weder die Wettkampfwände aufgrund ihres Schwie
 
 >Fazit: Für erfahre Boulder:innen und Ninja Warrior Fans ein absolutes muss! Auch für alle anderen gibt es unglaublich viel auszuprobieren und zu bestaunen. Gerade das vielfältige Kursangebot sollte man unbedingt in Anspruch nehmen. Diese Boulderhalle ist immer einen Besuch wert.
 
-
+Falls ihr unseren Testbericht vom fantastischen Stuntwerk Krefeld lesen wollt findet ihr den hier: <a href="https://kletterkompass.com/Stuntwerk-Krefeld/" target="_blank">www.kletterkompass.com/Stuntwerk-Krefeld</a>  
 <img src="/assets/images/einbinden/stuntwerk-köln-eingangsbereich.webp" loading="lazy" width="1200" height="900" alt="Eingangsbereich" title="Eingangsbereich" />
 
 Das Stuntwerk liegt in der Schanzenstraße 6 in Köln Mülheim und lässt sich super mit der Bahn über den Bahnhof Mülheim erreichen. Auch mit dem Auto hat man genug Parkplatzmöglichkeiten, um eine angenehme Anreise zu gewähren. Der Eintritt beträgt 13€ für Erwachsene und 10,50€ für Ermäßigte. Wirklich faire Preise für all das, was ihr hier geboten bekommt.

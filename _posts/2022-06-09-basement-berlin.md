@@ -26,6 +26,8 @@ Wie bereits aber erwähnt ist die Lage, sowie die Verkehrsanbindung phenomenal, 
 
 > Fazit: Das Basement Boulderstudio Berlin ist eine hervorragende Wahl für alle, die das Klettern in der Stadt genießen möchten. Die Atmosphäre ist authentisch, cool und modern und die Community ist freundlich und einladend. Es ist eine einzigartige Boulderhalle, die ihresgleichen sucht und ein unvergessliches Erlebnis für alle Kletter:innen bietet. Unbedingt ausprobieren, wenn es geht aber lieber Vormittags.
 
+Falls ihr unseren Testbericht vom einer anderen einzigartigen Halle lesen wollt, dann liest auf jeden Fall unseren Test der Blockhelden Bamberg: <a href="https://kletterkompass.com/Blockhelden-bamberg/" target="_blank">www.kletterkompass.com/Blockhelden-bamberg</a>  
+
 Das Basement Boulderstudio Berlin liegt in der Stresemannstraße 72. Aufgrund der zentralen Lage empfehlen wir eine Anreise mit der Bahn. 12,90€ für Erwachsene 9,90€ Ermäßigte. Unser Tipp: Wenn ihr früh vor Ort seid zahlt ihr beim Early Bird Tarif auch ohne Ermäßigung nur 9,90€! Das sind wirklich sehr faire Preise für das, was ihr hier geboten bekommt. Das freie Training ist im Urban Sports Club Abo M bis XL enthalten.
 
 Weitere Infos findet ihr unter <a href="https://basement-boulderstudio.de/" target="_blank">www.basement-boulderstudio.de</a>

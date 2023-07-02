@@ -29,6 +29,8 @@ Diese Halle spielt alleine schon aufgrund ihres Charmes ganz oben mit im deutsch
 
 > Fazit: Probiert diese Boulderhalle unbedingt aus! Gerade an heißen Tagen oder um Leute kennenzulernen die beste Anlaufstelle. Vielleicht ist hier nicht alles neu oder glänzend, aber die Routen und die Leute machen das definitiv wett.
 
+Falls ihr einen unserer Testberichte über einen echten Geheimtipp in Köln lesen wollt, findet ihr den hier:
+<a href="https://kletterkompass.com/K11-Koeln/" target="_blank">www.kletterkompass.com/K11-Koeln/</a>  
 
  
 Der Boulderplanet liegt in der Oskar-Jäger-Straße 143H in Köln Ehrenfeld und lässt sich passabel mit Bus oder der Straßenbahn erreichen. Erstaunlich für Köln ist hier, dass das Auto ausnahmsweise mal eine gute Wahl ist. Vor Ort findet ihr immer einen kostenlosen Parkplatz! Die Verbindung mit der Straßenbahn ist in Ordnung. Ein paar Minuten müsst ihr zu Fuß laufen. Der Eintritt beträgt 13,50€ für Erwachsene, Ermäßigte (Studenten) zahlen nur 11,50€. Die Preise sind auf jeden Fall fair, gerade wenn ihr plant länger zu bleiben und die Sonne im Außenbereich zu genießen. Der Eintritt ist im Urban Sports Club Abo L und XL enthalten.

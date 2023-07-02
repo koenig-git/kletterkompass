@@ -41,6 +41,8 @@ Wer neugierig geworden ist, findet hier ihren Beitrag: <a href="https://kletterk
 
 >Fazit: Diese Halle hat leider wirklich viele Fragezeichen aufgeworfen. Meine Erwartungen waren natürlich hoch. Vom Routesetting, vor allem bei der Kreativität und Vielfältigkeit der Routen, und dem Trainingsbereich bin ich begeistert. Von den inkonsistenten Schwierigkeitsgraden leider weniger. Sauberkeit und Planung in der Halle sind bedauerlicherweise wirklich schlecht. Ich denke viele von euch können darüber hinwegsehen und jetzt wisst ihr ja auch über alles Bescheid. Wer für die Routen und den Trainingsbereich kommt, wird hier nicht enttäuscht und das ist ja, was eigentlich zählt.
 
+Falls ihr unseren Testbericht vom Einstein Düsseldorf lesen wollt, welcher deutlich positiver ausgefallen ist, findet ihr den hier: <a href="https://kletterkompass.com/einstein-duesseldorf/" target="_blank">www.kletterkompass.com/einstein-duesseldorf</a>  
+
 Das Einstein Duisburg liegt in der Essenberger Str. 85. Es gibt in der Regel genug Parkplätze vor Ort. Der Bus 933 hält direkt vor der Halle. Die Tageskarte kostet 12,90€ und ermäßigt 10,90€. Beim Early Bird-Ticket (bis 14 Uhr Mo-Fr, außer Feiertags & während Schulferien) zahlt ihr 10,50€ und 9,5€. Im Urban Sports Club Abo M, L & XL ist das freie Training mit drin.
 Gerade gibt es auch eine Aktion, wo ihr als registrierter Kunde, bei 4 Neukunden, die ihr mitbringt, bis zu einem Monat kostenlos bouldern könnt. Die genauen Bedingungen findet ihr hier <a href="https://duisburg.einstein-boulder.com/bring-four-friends" target="_blank">https://duisburg.einstein-boulder.com/2022/06/18/bring-four-friends/</a> 
 

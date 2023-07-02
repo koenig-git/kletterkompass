@@ -28,5 +28,7 @@ Zuletzt will ich noch einmal kurz über den Eintrittspreis reden. 12,90€ ist M
 
 >Ein netter Abend, vor allem für wettkampfaffine Sportler. Anfänger sollten noch etwas abwarten. Allen anderen kann ich ein Reinschnuppern empfehlen.
 
+Falls ihr unseren Testbericht vom Bahnhof Blo lesen wollt, der Vorzeigehalle in Wuppertal, findet ihr den hier: <a href="https://kletterkompass.com/bahnhof-blo-wupptal/" target="_blank">www.kletterkompass.com/bahnhof-blo-wuppertal</a>  
+
 Das Prisma Wuppertal befindet sich in der Vohwinkeler Str. 119 und ist sowohl mit der Schwebebahn als auch mit dem Bus mäßig gut zu erreichen. Vor der Halle gibt es genügend Parkplätze. Der Eintritt kostet für Erwachsene 12,90 € und ermäßigt 10,90 €. Außerdem gibt es Früh-, Spät- und Familientarife und zusätzlich noch verschiedene Abos. Alle Informationen zu den Abonnements und allem weiterem findet ihr hier: <a href="https://boulderhalle-prisma.de/?drpStartPage=voucher&bookingPluginContainerId=%23drp-booking" target="_blank">www.boulderhalle-prisma.de</a>
 Im Urban Sports Club Abo M, L & XL ist das freie Training mit drin.

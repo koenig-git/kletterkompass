@@ -23,6 +23,7 @@ Der Trainingsbereich ist im Verhältnis zur Halle etwas klein, aber für ein ein
 
 >Fazit: Eine absolute Empfehlung für Boulder:innen, die Top-Outs erleben und meistern wollen. Hier können Anfänger lernen über ihren Schatten zu springen oder Fortgeschrittene den verlorenen Nervenkitzel wiederfinden. Auch Eltern werden, gerade auf den Kinderevents, auf ihre Kosten kommen und in Ruhe das Café oder den Außenbereich genießen können.
 
+Falls ihr unseren Testbericht vom nahegelegenen Superblock Düsseldorf lesen wollt findet ihr den hier: <a href="https://kletterkompass.com/superblock-düsseldorf/" target="_blank">www.kletterkompass.com/superblock-düsseldorf</a>  
 <img src="/assets/images/einbinden/monkeyspot-düsseldorf-seitenwand.webp" loading="lazy" width="1200" height="900" alt="Wettkampfwand" title="Wettkampfwand" />
 
 Die Monkeyspot Boulderhalle Düsseldorf liegt in der Schiessstraße 52 und lässt sich super mit dem Auto erreichen. Einen freien Parkplatz findet ihr hier immer. Die Bus- und Bahnverbindung ist auch in Ordnung. Beide halten einige Fußminuten entfernt. 

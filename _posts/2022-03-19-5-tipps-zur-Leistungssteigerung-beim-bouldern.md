@@ -28,3 +28,6 @@ Auch wenn das Bouldern so gut wie alle Muskeln beansprucht, so sind einige Muske
 ## Fazit
 Wir hoffen diese 5 Tipps haben dir geholfen und du konntest einige neue Infos mit auf dem Weg nehmen. Das wichtigste aber ist, dass du konstant am Ball bleibst. Wie bei jedem anderen Sport auch ist regelmäßiges Training essentiell, um seine Leistung zu verbessern oder zumindest konstant zu halten. 
 Kommentier gerne deine besten Tipps für den Einstieg zum Bouldern und teile diesen Beitrag mit deinen Boulderparntern.
+
+Wenn euch ein Beitrag interessiert, wo wir euch über die Regeln und die Etikette in einer Boulderhalle aufklären, findet ihr den hier:               
+<a href="https://kletterkompass.com/Regeln-und-Etikette-in-einer-Boulderhalle/" target="_blank">https://kletterkompass.com/Regeln-und-Etikette-in-einer-Boulderhalle</a> 

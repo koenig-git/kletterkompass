@@ -29,6 +29,8 @@ Völlig umgehauen hat mich der Kinderbereich. In einer eigenen kleinen Halle kö
 
 >Fazit: Egal ob Ninja-Warrior-Fans, Boulder:innen oder Eltern und Kinder, in dieser Halle hat jeder Spaß und kann sein Training voll entfalten. Nutzt auf jeden Fall wenigstens einmal die Rabattaktion und nehmt eure Freunde kostenlos mit ins Stuntwerk. Anderseits auch ohne Aktion kommt ihr hier auf eure Kosten, wenn ihr das breite Angebot ausschöpft. Der Name hält, was er verspricht.
 
+Falls ihr unseren Testbericht vom grandiosen Stuntwerk Köln lesen wollt findet ihr den hier: <a href="https://kletterkompass.com/stuntwerk-koeln/" target="_blank">www.kletterkompass.com/stuntwerk-koeln</a>  
+
 Das Stuntwerk Krefeld liegt in der Weyerhofstraße 50 und lässt sich super mit dem Auto erreichen. Einen freien Parkplatz findet ihr hier immer. Mit der Bahn ist die Verbindung auch gut. Die 044 hält fast direkt vor Ort und die Halle liegt nicht zu weit außerhalb.
 Die Tageskarte für das Bouldern liegt bei 13€ für Erwachsene und 10,50€ für Ermäßigte. Eine Familie (2 Erw. und beliebig viele eigene Kinder u.18) bezahlt 35€ für ihren Tageseintritt. Diese Preise sind für das, was ihr hier bekommt, echt fair! Gerade der Familienpreis bei mehreren Kindern und der Ermäßigten-Tarif sind wirklich günstig. Im Urban Sports Club Abo M bis XL ist der Eintritt für das Bouldern, den Parkour und den Ninja-Warrior-Bereich enthalten.
 

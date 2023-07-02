@@ -42,3 +42,7 @@ Ein Crashpad ist eine weiche Matte, die man beim Bouldern verwendet, um den Fall
 
 
 <b style="color:#20BCA2">Hoffentlich konnten euch dieser Blogbeitrag helfen, einige Begriffe aus dem Boulder- und Klettersport besser zu verstehen. Kommentiert gerne Begriffe, welche wir vergessen haben und die wir vielleicht in einem nächsten Blogbeitrag erläutern sollten. Teilt diesen Beitrag gerne mit eurem Boulderparnter oder eurer Boulderpartnerin.</b>
+
+
+Wenn euch ein Beitrag interessiert, wo wir die häufigsten Klettergriffe und Arten erklären, findet ihr den hier:                                     
+<a href="https://kletterkompass.com/Klettergriffe-und-Arten-erklaert/" target="_blank">https://kletterkompass.com/Klettergriffe-und-Arten-erklaert</a> 
