@@ -6,7 +6,7 @@ categories: [ Bouldern ]
 tags: [ Duisburg ]
 image: assets/images/einstein-duisburg-boulderhalle.webp
 rating: 3
-seo-alt: "Bouldern Boulderhalle Einstein Duisburg Trainingsbereich Trampolin Indoor Klettern Kletterhalle Kinderfreundlich"
+seo-alt: "Bouldern Boulderhalle Einstein Duisburg Rezension Rezensionen Trainingsbereich Trampolin Indoor Klettern Kletterhalle Kinderfreundlich"
 ---
 #### <span style="color:#00c5a1">Leider nicht wie der große Bruder</span>
 Da ich von der Einstein Boulderhalle in Düsseldorf nur Positives gehört habe, dachte ich mir probieren wir mal den Ableger in Duisburg aus.
@@ -25,6 +25,9 @@ Leider geht dies aber auch nicht ohne Probleme einher. Mir fielen schon starke S
 
 Eine coole Besonderheit der Halle ist es, eine Art Couch-Lounge inmitten der Matten um die Wände herum zu haben. Das bringt die Leute zusammen und man kommt leicht ins Gespräch. Selbst wenn man alleine vor Ort ist, kann man immerhin seine Routen schön entspannt im Sitzen durchgehen, und muss das nicht mehr auf den Matten oder im Stehen tun.
 
+><span style="color:#00c5a1"><b>Preise:</b></span> Die Tageskarte kostet 12,90€ und ermäßigt 10,90€. Beim Early Bird-Ticket (bis 14 Uhr Mo-Fr, außer Feiertags & während Schulferien) zahlt ihr 10,50€ und 9,5€. Im Urban Sports Club Abo M, L & XL ist das freie Training mit drin.
+Gerade gibt es auch eine Aktion, wo ihr als registrierter Kunde, bei 4 Neukunden, die ihr mitbringt, bis zu einem Monat kostenlos bouldern könnt. Die genauen Bedingungen findet ihr hier <a href="https://duisburg.einstein-boulder.com/bring-four-friends" target="_blank">https://duisburg.einstein-boulder.com/2022/06/18/bring-four-friends/</a> 
+
 Parallel zu unserem Besuch fand ein Kindergeburtstag statt. Zwar ist der Kinderbereich durch eine Kletterwand räumlich getrennt, dennoch kann es sehr laut in der Halle werden. Was ich aber kritisch fand, waren die Ausstiege im Kinderbereich. Die Kinder haben nämlich viele Top-Out Routen. Ein Abstieg ist aber nicht an der Wand entlang, sondern man kommt von oben durch eine Art Loch herab, welches sich über dem Durchgang von Kinder-zu Erwachsenenbereich befindet. Es gibt zwar ein Schild, was davor warnt, wenn man genau darunter steht, aber natürlich können oder wollen Kinder das nicht lesen. Klar, die Griffe sind gut und es ist unwahrscheinlich das man beim Abstieg runterfällt, aber wozu so ein unkonventioneller Abstieg? Auf der gegenüberliegenden Seite sind die Kinder über eine Klappleiter, die neben der Wand stand, heruntergeklettert. Ob das jetzt gewollt war, von der Hallenleitung, kann ich nicht mit absoluter Gewissheit sagen. Warum man hier aber nicht einfach eine Sprossenleiter sichtbar an der Wand über den Matten befestigt wie in jeder anderen Halle, ist mir unklar. An sich kam das Personal aber super mit den Kindern klar und diese schienen auch sehr viel Spaß gehabt zu haben.
 
 
@@ -39,11 +42,11 @@ Die Umkleiden waren leider auch echt nicht schön. Dazu waren die Damen- und Her
 Wer neugierig geworden ist, findet hier ihren Beitrag: <a href="https://kletterkompass.com/einstein-d%C3%BCsseldorf/" target="_blank">www.kletterkompass.com/einstein-düsseldorf</a>
 
 
->Fazit: Diese Halle hat leider wirklich viele Fragezeichen aufgeworfen. Meine Erwartungen waren natürlich hoch. Vom Routesetting, vor allem bei der Kreativität und Vielfältigkeit der Routen, und dem Trainingsbereich bin ich begeistert. Von den inkonsistenten Schwierigkeitsgraden leider weniger. Sauberkeit und Planung in der Halle sind bedauerlicherweise wirklich schlecht. Ich denke viele von euch können darüber hinwegsehen und jetzt wisst ihr ja auch über alles Bescheid. Wer für die Routen und den Trainingsbereich kommt, wird hier nicht enttäuscht und das ist ja, was eigentlich zählt.
+<span style="color:#00c5a1"><b> Fazit: Diese Halle hat leider wirklich viele Fragezeichen aufgeworfen. Meine Erwartungen waren natürlich hoch. Vom Routesetting, vor allem bei der Kreativität und Vielfältigkeit der Routen, und dem Trainingsbereich bin ich begeistert. Von den inkonsistenten Schwierigkeitsgraden leider weniger. Sauberkeit und Planung in der Halle sind bedauerlicherweise wirklich schlecht. Ich denke viele von euch können darüber hinwegsehen und jetzt wisst ihr ja auch über alles Bescheid. Wer für die Routen und den Trainingsbereich kommt, wird hier nicht enttäuscht und das ist ja, was eigentlich zählt.
+</b></span>
 
 Falls ihr unseren Testbericht vom Einstein Düsseldorf lesen wollt, welcher deutlich positiver ausgefallen ist, findet ihr den hier: <a href="https://kletterkompass.com/einstein-duesseldorf/" target="_blank">www.kletterkompass.com/einstein-duesseldorf</a>  
 
-Das Einstein Duisburg liegt in der Essenberger Str. 85. Es gibt in der Regel genug Parkplätze vor Ort. Der Bus 933 hält direkt vor der Halle. Die Tageskarte kostet 12,90€ und ermäßigt 10,90€. Beim Early Bird-Ticket (bis 14 Uhr Mo-Fr, außer Feiertags & während Schulferien) zahlt ihr 10,50€ und 9,5€. Im Urban Sports Club Abo M, L & XL ist das freie Training mit drin.
-Gerade gibt es auch eine Aktion, wo ihr als registrierter Kunde, bei 4 Neukunden, die ihr mitbringt, bis zu einem Monat kostenlos bouldern könnt. Die genauen Bedingungen findet ihr hier <a href="https://duisburg.einstein-boulder.com/bring-four-friends" target="_blank">https://duisburg.einstein-boulder.com/2022/06/18/bring-four-friends/</a> 
+Das Einstein Duisburg liegt in der Essenberger Str. 85. Es gibt in der Regel genug Parkplätze vor Ort. Der Bus 933 hält direkt vor der Halle. 
 
 Weitere allgemeine Infos findet ihr unter <a href="https://duisburg.einstein-boulder.com/" target="_blank">www.duisburg.einstein-bouldern.com</a>

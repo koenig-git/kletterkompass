@@ -6,7 +6,7 @@ categories: [ Bouldern ]
 tags: [ Wuppertal ]
 image: assets/images/Prisma-Wuppertal-Boulderhalle-Eröffnung.webp
 rating: 3
-seo-alt: "Kletterhalle Boulderhalle Bouldern Klettern Wuppertal Prisma Wettkampf Eröffnung"
+seo-alt: "Kletterhalle Boulderhalle Bouldern Klettern Wuppertal Prisma Rezension Rezensionen Wettkampf Eröffnung"
 ---
 
 #### <span style="color:#00c5a1">Viel Potenzial ABER...</span>
@@ -19,6 +19,8 @@ Es gab zur Eröffnung leider keinen Studentenrabatt oder Ähnliches. Mir wurde v
 
 Mir, als Fortgeschrittenen, hat es sehr gut gefallen und ich konnte mich lange an einigen kniffligen Routen versuchen. Leider waren es wirklich nicht viele Routen bzw. Wände, verglichen mit der schieren Größe der Halle. Klar, Wettkampfrouten beschäftigen einen meist länger als „normale“ Routen, aber viel Wandfläche war noch nicht da. Das Prisma besteht aus 2 großen Hallen, von denen eine nur als Abstellraum genutzt wird. Zusätzlich wird die Hälfte der Halle, die wirklich genutzt wird, nur zur Hälfte mit Wänden ausgestattet. Die andere Hälfte ist einfach leer. Es wird zwar angedeutet, dass da noch Wände hinkommen, aber wenn man vollen Eintritt verlangt, finde ich das schon ein bisschen unverschämt. Dazu war gerade der Eröffnungsabend nicht anfängerfreundlich. Zum einen gab es einfach nicht viele Routen für Einsteiger, da fast alles mit Wettkampfrouten belegt war. Zusätzlich haben viele der Wände stärkere Neigungen oder andere Kniffe, was für viele spannend und abwechslungsreich ist, aber für Anfänger oft abschreckend sein kann. Ein wirklich größeres Manko ist, dass es so gut wie gar keine Griffe zum herabklettern gab. Ich kann nur schwer einschätzen, wie der reguläre Betrieb aussehen wird, aber für den Anfang würde ich Anfängern erstmal andere Hallen empfehlen. 
 
+><span style="color:#00c5a1"><b>Preise:</b></span> Die normale Tageskarte kostet 12,90€ und ermäßigt 10,90€. Es gibt ein Angebot für Neukunden, wo ihr 5 Eintritte für 35€ bekommt. Im Urban Sports Club Abo M, L & XL ist das freie Training mit drin. Alle Preise und Abos findet ihr hier: <a href="https://boulderhalle-prisma.de/?drpStartPage=voucher&bookingPluginContainerId=%23drp-booking" target="_blank">www.boulderhalle-prisma.de/preise</a> 
+
 <img src="/assets/images/einbinden/prisma-wuppertal-boulderhalle-trainingsbereich.webp" loading="lazy" width="1200" height="900" alt="Trainignsbereich" title="Trainignsbereich" />
 
 
@@ -26,7 +28,8 @@ Die Halle wiederum war wirklich nur Betonboden und Stahlträger. Es war keine At
 Das Zuschauen bei den Wettkämpfen, die Verlosungen und die Stimmung waren aber richtig fabelhaft und das hat auch den Abend gerettet. 
 Zuletzt will ich noch einmal kurz über den Eintrittspreis reden. 12,90€ ist Münchener-Preisniveau, aber dafür ist mir das noch zu wenig. Wenn die Halle wirklich voll mit Wänden ist und schön eingerichtet ist, kann ich das verstehen. Vielleicht teste ich die Halle nochmal, wenn etwas Zeit verstrichen ist. Wenn ihr Interesse daran habt, oder eure Erfahrungen mit uns teilen wollt, schreibt es gerne in die Kommentarsektion.
 
->Ein netter Abend, vor allem für wettkampfaffine Sportler. Anfänger sollten noch etwas abwarten. Allen anderen kann ich ein Reinschnuppern empfehlen.
+<span style="color:#00c5a1"><b> Fazit: Ein netter Abend, vor allem für wettkampfaffine Sportler. Anfänger sollten noch etwas abwarten. Allen anderen kann ich ein Reinschnuppern empfehlen. Falls ihr an einer aktuellen Rezension des Prisma Wuppertal interessiert sein, schreibt es uns gerne in die Kommentare!
+</b></span>
 
 Falls ihr unseren Testbericht vom Bahnhof Blo lesen wollt, der Vorzeigehalle in Wuppertal, findet ihr den hier: <a href="https://kletterkompass.com/bahnhof-blo-wupptal/" target="_blank">www.kletterkompass.com/bahnhof-blo-wuppertal</a>  
 

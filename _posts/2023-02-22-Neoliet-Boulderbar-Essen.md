@@ -6,7 +6,7 @@ categories: [ Bouldern ]
 tags: [ Essen ]
 image: assets/images/Neoliet-Boulderbar-Boulder.webp
 rating: 4
-seo-alt: "Bouldern Essen Neoliet Boulderbar Klettern Boulderhalle Kletterhalle Anfänger Anfängerfreundlich"
+seo-alt: "Bouldern Essen Neoliet Boulderbar Klettern Boulderhalle Kletterhalle Rezension Rezensionen Anfänger Anfängerfreundlich"
 ---
 
 #### <span style="color:#00c5a1">Anfänger in Essen aufgepasst!</span>
@@ -23,17 +23,21 @@ Für die Semiprofis gab es einen Bereich mit einer langen Schrägwand, der mit b
 Die Halle hat einen Kinderbereich, der aber nicht abgetrennt ist, sondern im Gegenteil einige Überschneidungen mit den „normalen“ Routen hat. Vielleicht ist das so gewollt, damit die Eltern zwischendurch auch mal klettern können, aber ich persönlich bevorzuge komplett getrennte Kletterbereiche. Direkt neben dem Familienbereich gibt es noch eine kleine Top-Out-Wand, die aber auch von vielen Kindern genutzt wird. Das bietet eine schöne Abwechslung für alle. 
 Der Trainingsbereich wiederum ist gerade im Verhältnis zur Hallengröße und zu dem, was andere Hallen auffahren, recht klein, aber für mich ausreichend. Gerade für spezifisches Klettertraining hat man hier ein modernes Kilterboard und dazu noch ein paar Stangen für ein CrossFit-Training. Dazu gibt es ein paar Gewichte und eine rudimentäre Hantelbank. 
 
+><span style="color:#00c5a1"><b>Preise:</b></span> Der Eintritt kostet für Erwachsene 11,50 € und ermäßigt 10,50 €. Außerdem gibt es Monats-, Jahres- und Rabattkarten. Alle Informationen zu den Abonnements und zur Geld-zurück-Garantie gibt es hier: <a href="https://www.neoliet.de/boulderbar-essen/#infoboulderbar" target="_blank">www.neoliet.de/preise</a>
+Im Urban Sports Club Abo M, L & XL ist das freie Training mit drin.
+
 <img src="/assets/images/einbinden/neoliet-trainingsbereich-boulderhalle.webp" loading="lazy" width="1200" height="900" alt="Neoliet-Trainingsbereich-Boulderhalle-Trainingswand" title="Neoliet Trainingsbereich Boulderhalle Trainingswand"/>
 
 Versüßt wird der Besuch durch die Möglichkeit, hier noch kostenlos Billard zu spielen. Ich war sehr angetan und blieb gleich noch 40 Minuten länger. Gerade mit all den alten Möbeln und dem Billardtisch versprüht dieser Raum einen Charme, der zum Verweilen einlädt.
 
 
-> Fazit: Für Einsteiger und Anfänger ist die Halle fantastisch. Fortgeschrittene kommen durch die große Auswahl an Routen voll auf ihre Kosten. Für mich derzeit die beste Halle in Essen.
+<span style="color:#00c5a1"><b> Fazit: Für Einsteiger und Anfänger ist die Halle fantastisch. Fortgeschrittene kommen durch die große Auswahl an Routen voll auf ihre Kosten. Für mich derzeit die beste Halle in Essen.
+</b></span>
 
 Wenn ihr wissen wollt, worauf ich anspiele: Die Marke ELEMENT Boulders baut eine neue Halle in Essen. Die bereits eröffnete Halle in München habe ich schon getestet: <a href="https://kletterkompass.com/ELEMENT-Boulders-Muenchen/" target="_blank">www.kletterkompass.com/ELEMENT-Boulders-Muenchen</a>
 
-Die Neoliet Boulderbar Essen befindet sich in der Münchener Str. 106a und ist sowohl mit der Bahn als auch mit dem Bus mäßig gut zu erreichen. Rund um die Halle gibt es genügend Parkplätze, die allerdings etwas versteckt liegen. Für Essener ist aber sicherlich das Fahrrad die beste Alternative. Der Eintritt kostet für Erwachsene 11,50 € und ermäßigt 10,50 €. Außerdem gibt es Monats-, Jahres- und Rabattkarten inklusive einer freiwilligen Geld-zurück-Garantie von Neoliet. Alle Informationen zu den Abonnements und zur Geld-zurück-Garantie gibt es hier: <a href="https://www.neoliet.de/boulderbar-essen/#infoboulderbar" target="_blank">www.neoliet.de/preise</a>
-Im Urban Sports Club Abo M, L & XL ist das freie Training mit drin.
+Die Neoliet Boulderbar Essen befindet sich in der Münchener Str. 106a und ist sowohl mit der Bahn als auch mit dem Bus mäßig gut zu erreichen. Rund um die Halle gibt es genügend Parkplätze, die allerdings etwas versteckt liegen. Für Essener ist aber sicherlich das Fahrrad die beste Alternative. 
+
 
 
 Alle weiteren Infos und Neuigkeiten zur Halle findet ihr unter <a href="https://www.neoliet.de/boulderbar-essen/" target="_blank">www.neoliet.de</a>
