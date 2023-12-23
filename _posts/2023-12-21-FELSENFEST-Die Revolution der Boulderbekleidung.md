@@ -9,7 +9,6 @@ seo-alt: "Bouldern Tipps Regeln Etikette Verhalten Anfänger Anfängertipps Klet
 ---
 
 Liebe Boulderfreundinnen und Boulderfreunde, 
-
 ein bisschen Werbung in eigener Sache. Immer auf der Suche nach der perfekten Kletterbekleidung, aber nie wirklich zufrieden mit dem, was der Markt zu bieten hat? Entweder sehen die Klamotten aus, als wären sie in den 70ern stecken geblieben, oder sie sind so steif und unflexibel, dass sie für die Halle ungeeignet sind. Genau aus diesem Grund habe ich meine eigene kleine Produktion in Polen aufgebaut, um qualitativ hochwertige und funktionelle Boulderbekleidung herzustellen, die nicht nur in der Halle, sondern auch im Alltag eine gute Figur macht.
 Unsere Idee ist in Köln entstanden und gewachsen. Wir stehen für Kampfgeist, Qualität und Lokalität. Alle unsere Produkte werden in Polen hergestellt, um die höchsten europäischen Standards zu gewährleisten und den CO₂-Fußabdruck so gering wie möglich zu halten. Die von uns verwendete Baumwolle ist mit dem Öko-Tex-Siegel ausgezeichnet.
 
